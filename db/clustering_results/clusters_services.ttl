@@ -1,0 +1,3643 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix sitg: <http://www.sitg.ch/>.
+
+sitg:collection_701 rdf:type skos:Collection;
+    skos:member sitg:concept_701_1;
+    skos:member sitg:concept_701_2;
+    skos:member sitg:concept_701_3;
+    skos:member sitg:concept_701_4;
+    skos:member sitg:concept_701_5;
+    skos:member sitg:concept_701_6;
+    skos:member sitg:concept_701_7;
+    skos:member sitg:concept_701_8;
+    skos:member sitg:concept_701_9;
+    skos:member sitg:concept_701_10;
+    skos:member sitg:concept_701_11;
+    skos:member sitg:concept_701_12;
+    skos:member sitg:concept_701_13;
+    skos:member sitg:concept_701_14;
+    skos:member sitg:concept_701_15;
+    skos:member sitg:concept_701_16;
+    skos:member sitg:concept_701_17;
+    skos:member sitg:concept_701_18;
+    skos:member sitg:concept_701_19;
+    skos:member sitg:concept_701_20;
+    skos:member sitg:concept_701_21;
+    skos:member sitg:concept_701_22;
+    skos:member sitg:concept_701_23;
+    skos:member sitg:concept_701_24;
+    skos:member sitg:concept_701_25;
+    skos:member sitg:concept_701_26;
+    skos:member sitg:concept_701_27;
+    skos:member sitg:concept_701_28;
+    skos:member sitg:concept_701_29;
+    skos:member sitg:concept_701_30;
+    skos:member sitg:concept_701_31;
+    skos:member sitg:concept_701_32;
+    skos:member sitg:concept_701_33;
+    skos:member sitg:concept_701_34;
+    skos:member sitg:concept_701_35;
+    skos:member sitg:concept_701_36;
+    skos:member sitg:concept_701_37;
+    skos:member sitg:concept_701_38;
+    skos:member sitg:concept_701_39;
+    skos:member sitg:concept_701_40;
+    skos:member sitg:concept_701_41;
+    skos:member sitg:concept_701_42;
+    skos:member sitg:concept_701_43;
+    skos:member sitg:concept_701_44;
+    skos:member sitg:concept_701_45;
+    skos:member sitg:concept_701_46;
+    skos:member sitg:concept_701_47;
+    skos:member sitg:concept_701_48;
+    skos:member sitg:concept_701_49;
+    skos:member sitg:concept_701_50;
+    skos:member sitg:concept_701_51;
+    skos:member sitg:concept_701_52;
+    skos:member sitg:concept_701_53;
+    skos:member sitg:concept_701_54;
+    skos:member sitg:concept_701_55;
+    skos:member sitg:concept_701_56;
+    skos:member sitg:concept_701_57;
+    skos:member sitg:concept_701_58;
+    skos:member sitg:concept_701_59;
+    skos:member sitg:concept_701_60;
+    skos:member sitg:concept_701_61;
+    skos:member sitg:concept_701_62;
+    skos:member sitg:concept_701_63;
+    skos:member sitg:concept_701_64;
+    skos:member sitg:concept_701_65;
+    skos:member sitg:concept_701_66;
+    skos:member sitg:concept_701_67;
+    skos:member sitg:concept_701_68;
+    skos:member sitg:concept_701_69;
+    skos:member sitg:concept_701_70;
+    skos:member sitg:concept_701_71;
+    skos:member sitg:concept_701_72;
+    skos:member sitg:concept_701_73;
+    skos:member sitg:concept_701_74;
+    skos:member sitg:concept_701_75;
+    skos:member sitg:concept_701_76;
+    skos:member sitg:concept_701_77;
+    skos:member sitg:concept_701_78;
+    skos:member sitg:concept_701_79;
+    skos:member sitg:concept_701_80;
+    skos:member sitg:concept_701_81;
+    skos:member sitg:concept_701_82;
+    skos:member sitg:concept_701_83;
+    skos:member sitg:concept_701_84;
+    skos:member sitg:concept_701_85;
+    skos:member sitg:concept_701_86;
+    skos:member sitg:concept_701_87;
+    skos:member sitg:concept_701_88;
+    skos:member sitg:concept_701_89;
+    skos:member sitg:concept_701_90;
+    skos:member sitg:concept_701_91;
+    skos:member sitg:concept_701_92;
+    skos:member sitg:concept_701_93;
+    skos:member sitg:concept_701_94;
+    skos:member sitg:concept_701_95;
+    skos:member sitg:concept_701_96;
+    skos:member sitg:concept_701_97;
+    skos:member sitg:concept_701_98;
+    skos:member sitg:concept_701_99;
+    skos:member sitg:concept_701_100;
+    skos:member sitg:concept_701_101;
+    skos:member sitg:concept_701_102;
+    skos:member sitg:concept_701_103;
+    skos:member sitg:concept_701_104;
+    skos:member sitg:concept_701_105;
+    skos:member sitg:concept_701_106;
+    skos:member sitg:concept_701_107;
+    skos:member sitg:concept_701_108;
+    skos:member sitg:concept_701_109;
+    skos:member sitg:concept_701_110;
+    skos:member sitg:concept_701_111;
+    skos:member sitg:concept_701_112;
+    skos:member sitg:concept_701_113;
+    skos:member sitg:concept_701_114;
+    skos:member sitg:concept_701_115;
+    skos:member sitg:concept_701_116;
+    skos:member sitg:concept_701_117;
+    skos:member sitg:concept_701_118;
+    skos:member sitg:concept_701_119;
+    skos:member sitg:concept_701_120;
+    skos:member sitg:concept_701_121;
+    skos:member sitg:concept_701_122;
+    skos:member sitg:concept_701_123;
+    skos:member sitg:concept_701_124;
+    skos:member sitg:concept_701_125;
+    skos:member sitg:concept_701_126;
+    skos:member sitg:concept_701_127;
+    skos:member sitg:concept_701_128;
+    skos:member sitg:concept_701_129;
+    skos:member sitg:concept_701_130;
+    skos:member sitg:concept_701_131;
+    skos:member sitg:concept_701_132;
+    skos:member sitg:concept_701_133;
+    skos:member sitg:concept_701_134;
+    skos:member sitg:concept_701_135;
+    skos:member sitg:concept_701_136;
+    skos:member sitg:concept_701_137;
+    skos:member sitg:concept_701_138;
+    skos:member sitg:concept_701_139;
+    skos:member sitg:concept_701_140;
+    skos:member sitg:concept_701_141;
+    skos:member sitg:concept_701_142;
+    skos:member sitg:concept_701_143;
+    skos:member sitg:concept_701_144;
+    skos:member sitg:concept_701_145;
+    skos:member sitg:concept_701_146;
+    skos:member sitg:concept_701_147;
+    skos:member sitg:concept_701_148;
+    skos:member sitg:concept_701_149;
+    skos:member sitg:concept_701_150;
+    skos:member sitg:concept_701_151;
+    skos:member sitg:concept_701_152;
+    skos:member sitg:concept_701_153;
+    skos:member sitg:concept_701_154;
+    skos:member sitg:concept_701_155;
+    skos:member sitg:concept_701_156;
+    skos:member sitg:concept_701_157;
+    skos:member sitg:concept_701_158;
+    skos:member sitg:concept_701_159;
+    skos:member sitg:concept_701_160;
+    skos:member sitg:concept_701_161;
+    skos:member sitg:concept_701_162;
+    skos:member sitg:concept_701_163;
+    skos:member sitg:concept_701_164;
+    skos:member sitg:concept_701_165;
+    skos:member sitg:concept_701_166;
+    skos:member sitg:concept_701_167;
+    skos:member sitg:concept_701_168;
+    skos:member sitg:concept_701_169;
+    skos:member sitg:concept_701_170;
+    skos:member sitg:concept_701_171;
+    skos:member sitg:concept_701_172;
+    skos:member sitg:concept_701_173;
+    skos:member sitg:concept_701_174;
+    skos:member sitg:concept_701_175;
+    skos:member sitg:concept_701_176;
+    skos:member sitg:concept_701_177;
+    skos:member sitg:concept_701_178;
+    skos:member sitg:concept_701_179;
+    skos:member sitg:concept_701_180;
+    skos:member sitg:concept_701_181;
+    skos:member sitg:concept_701_182;
+    skos:member sitg:concept_701_183;
+    skos:member sitg:concept_701_184;
+    skos:member sitg:concept_701_185;
+    skos:member sitg:concept_701_186;
+    skos:member sitg:concept_701_187;
+    skos:member sitg:concept_701_188;
+    skos:member sitg:concept_701_189;
+    skos:member sitg:concept_701_190;
+    skos:member sitg:concept_701_191;
+    skos:member sitg:concept_701_192;
+    skos:member sitg:concept_701_193;
+    skos:member sitg:concept_701_194;
+    skos:member sitg:concept_701_195;
+    skos:member sitg:concept_701_196;
+    skos:member sitg:concept_701_197;
+    skos:member sitg:concept_701_198;
+    skos:member sitg:concept_701_199;
+    skos:member sitg:concept_701_200;
+    skos:member sitg:concept_701_201;
+    skos:member sitg:concept_701_202;
+    skos:member sitg:concept_701_203;
+    skos:member sitg:concept_701_204;
+    skos:member sitg:concept_701_205;
+    skos:member sitg:concept_701_206;
+    skos:member sitg:concept_701_207;
+    skos:member sitg:concept_701_208;
+    skos:member sitg:concept_701_209;
+    skos:member sitg:concept_701_210;
+    skos:member sitg:concept_701_211;
+    skos:member sitg:concept_701_212;
+    skos:member sitg:concept_701_213;
+    skos:member sitg:concept_701_214;
+    skos:member sitg:concept_701_215;
+    skos:member sitg:concept_701_216;
+    skos:member sitg:concept_701_217;
+    skos:member sitg:concept_701_218;
+    skos:member sitg:concept_701_219;
+    skos:member sitg:concept_701_220;
+    skos:member sitg:concept_701_221;
+    skos:member sitg:concept_701_222;
+    skos:member sitg:concept_701_223;
+    skos:member sitg:concept_701_224;
+    skos:member sitg:concept_701_225;
+    skos:member sitg:concept_701_226;
+    skos:member sitg:concept_701_227;
+    skos:member sitg:concept_701_228;
+    skos:member sitg:concept_701_229;
+    skos:member sitg:concept_701_230;
+    skos:member sitg:concept_701_231;
+    skos:member sitg:concept_701_232;
+    skos:member sitg:concept_701_233;
+    skos:member sitg:concept_701_234;
+    skos:member sitg:concept_701_235;
+    skos:member sitg:concept_701_236;
+    skos:member sitg:concept_701_237;
+    skos:member sitg:concept_701_238;
+    skos:member sitg:concept_701_239;
+    skos:member sitg:concept_701_240;
+    skos:member sitg:concept_701_241;
+    skos:member sitg:concept_701_242;
+    skos:member sitg:concept_701_243;
+    skos:member sitg:concept_701_244;
+    skos:member sitg:concept_701_245;
+    skos:member sitg:concept_701_246;
+    skos:member sitg:concept_701_247;
+    skos:member sitg:concept_701_248;
+    skos:member sitg:concept_701_249;
+    skos:member sitg:concept_701_250;
+    skos:member sitg:concept_701_251;
+    skos:member sitg:concept_701_252;
+    skos:member sitg:concept_701_253;
+    skos:member sitg:concept_701_254;
+    skos:member sitg:concept_701_255;
+    skos:member sitg:concept_701_256;
+    skos:member sitg:concept_701_257;
+    skos:member sitg:concept_701_258;
+    skos:member sitg:concept_701_259;
+    skos:member sitg:concept_701_260;
+    skos:member sitg:concept_701_261;
+    skos:member sitg:concept_701_262;
+    skos:member sitg:concept_701_263;
+    skos:member sitg:concept_701_264;
+    skos:member sitg:concept_701_265;
+    skos:member sitg:concept_701_266;
+    skos:member sitg:concept_701_267;
+    skos:member sitg:concept_701_268;
+    skos:member sitg:concept_701_269;
+    skos:member sitg:concept_701_270;
+    skos:member sitg:concept_701_271;
+    skos:member sitg:concept_701_272;
+    skos:member sitg:concept_701_273;
+    skos:member sitg:concept_701_274;
+    skos:member sitg:concept_701_275;
+    skos:member sitg:concept_701_276;
+    skos:member sitg:concept_701_277;
+    skos:member sitg:concept_701_278;
+    skos:member sitg:concept_701_279;
+    skos:member sitg:concept_701_280;
+    skos:member sitg:concept_701_281;
+    skos:member sitg:concept_701_282;
+    skos:member sitg:concept_701_283;
+    skos:member sitg:concept_701_284;
+    skos:member sitg:concept_701_285;
+    skos:member sitg:concept_701_286;
+    skos:member sitg:concept_701_287;
+    skos:member sitg:concept_701_288;
+    skos:member sitg:concept_701_289;
+    skos:member sitg:concept_701_290;
+    skos:member sitg:concept_701_291;
+    skos:member sitg:concept_701_292;
+    skos:member sitg:concept_701_293;
+    skos:member sitg:concept_701_294;
+    skos:member sitg:concept_701_295;
+    skos:member sitg:concept_701_296;
+    skos:member sitg:concept_701_297;
+    skos:member sitg:concept_701_298;
+    skos:member sitg:concept_701_299;
+    skos:member sitg:concept_701_300;
+    skos:member sitg:concept_701_301;
+    skos:member sitg:concept_701_302;
+    skos:member sitg:concept_701_303;
+    skos:member sitg:concept_701_304;
+    skos:member sitg:concept_701_305;
+    skos:member sitg:concept_701_306;
+    skos:member sitg:concept_701_307;
+    skos:member sitg:concept_701_308;
+    skos:member sitg:concept_701_309;
+    skos:member sitg:concept_701_310;
+    skos:member sitg:concept_701_311;
+    skos:member sitg:concept_701_312;
+    skos:member sitg:concept_701_313;
+    skos:member sitg:concept_701_314;
+    skos:member sitg:concept_701_315;
+    skos:member sitg:concept_701_316;
+    skos:member sitg:concept_701_317;
+    skos:member sitg:concept_701_318;
+    skos:member sitg:concept_701_319;
+    skos:member sitg:concept_701_320;
+    skos:member sitg:concept_701_321;
+    skos:member sitg:concept_701_322;
+    skos:member sitg:concept_701_323;
+    skos:member sitg:concept_701_324;
+    skos:member sitg:concept_701_325;
+    skos:member sitg:concept_701_326;
+    skos:member sitg:concept_701_327;
+    skos:member sitg:concept_701_328;
+    skos:member sitg:concept_701_329;
+    skos:member sitg:concept_701_330;
+    skos:member sitg:concept_701_331;
+    skos:member sitg:concept_701_332;
+    skos:member sitg:concept_701_333;
+    skos:member sitg:concept_701_334;
+    skos:member sitg:concept_701_335;
+    skos:member sitg:concept_701_336;
+    skos:member sitg:concept_701_337;
+    skos:member sitg:concept_701_338;
+    skos:member sitg:concept_701_339;
+    skos:member sitg:concept_701_340;
+    skos:member sitg:concept_701_341;
+    skos:member sitg:concept_701_342;
+    skos:member sitg:concept_701_343;
+    skos:member sitg:concept_701_344;
+    skos:member sitg:concept_701_345;
+    skos:member sitg:concept_701_346;
+    skos:member sitg:concept_701_347;
+    skos:member sitg:concept_701_348;
+    skos:member sitg:concept_701_349;
+    skos:member sitg:concept_701_350;
+    skos:member sitg:concept_701_351;
+    skos:member sitg:concept_701_352;
+    skos:member sitg:concept_701_353;
+    skos:member sitg:concept_701_354;
+    skos:member sitg:concept_701_355;
+    skos:member sitg:concept_701_356;
+    skos:member sitg:concept_701_357;
+    skos:member sitg:concept_701_358;
+    skos:member sitg:concept_701_359;
+    skos:member sitg:concept_701_360;
+    skos:member sitg:concept_701_361;
+    skos:member sitg:concept_701_362;
+    skos:member sitg:concept_701_363;
+    skos:note "[servic=0.19, mensu=0.14, oficiel=0.14, inform=0.13, system=0.09, foresti=0.07, geograph=0.07, institut=0.07, national=0.07]".
+
+sitg:collection_702 rdf:type skos:Collection;
+    skos:member sitg:concept_702_364;
+    skos:member sitg:concept_702_365;
+    skos:member sitg:concept_702_366;
+    skos:member sitg:concept_702_367;
+    skos:member sitg:concept_702_368;
+    skos:member sitg:concept_702_369;
+    skos:member sitg:concept_702_370;
+    skos:member sitg:concept_702_371;
+    skos:member sitg:concept_702_372;
+    skos:note "[protection=0.23, cantonal=0.15, servic=0.13, air=0.11, bruit=0.11, contr=0.11, ionisant=0.11, non=0.11, rayon=0.11]".
+
+sitg:collection_705 rdf:type skos:Collection;
+    skos:member sitg:concept_705_373;
+    skos:member sitg:concept_705_374;
+    skos:member sitg:concept_705_375;
+    skos:member sitg:concept_705_376;
+    skos:member sitg:concept_705_377;
+    skos:member sitg:concept_705_378;
+    skos:member sitg:concept_705_379;
+    skos:member sitg:concept_705_380;
+    skos:member sitg:concept_705_381;
+    skos:member sitg:concept_705_382;
+    skos:member sitg:concept_705_383;
+    skos:member sitg:concept_705_384;
+    skos:member sitg:concept_705_385;
+    skos:member sitg:concept_705_386;
+    skos:member sitg:concept_705_387;
+    skos:member sitg:concept_705_388;
+    skos:member sitg:concept_705_389;
+    skos:member sitg:concept_705_390;
+    skos:member sitg:concept_705_391;
+    skos:member sitg:concept_705_392;
+    skos:member sitg:concept_705_393;
+    skos:member sitg:concept_705_394;
+    skos:member sitg:concept_705_395;
+    skos:member sitg:concept_705_396;
+    skos:member sitg:concept_705_397;
+    skos:member sitg:concept_705_398;
+    skos:member sitg:concept_705_399;
+    skos:member sitg:concept_705_400;
+    skos:member sitg:concept_705_401;
+    skos:member sitg:concept_705_402;
+    skos:member sitg:concept_705_403;
+    skos:member sitg:concept_705_404;
+    skos:member sitg:concept_705_405;
+    skos:member sitg:concept_705_406;
+    skos:member sitg:concept_705_407;
+    skos:member sitg:concept_705_408;
+    skos:member sitg:concept_705_409;
+    skos:member sitg:concept_705_410;
+    skos:member sitg:concept_705_411;
+    skos:member sitg:concept_705_412;
+    skos:member sitg:concept_705_413;
+    skos:member sitg:concept_705_414;
+    skos:member sitg:concept_705_415;
+    skos:member sitg:concept_705_416;
+    skos:member sitg:concept_705_417;
+    skos:member sitg:concept_705_418;
+    skos:member sitg:concept_705_419;
+    skos:member sitg:concept_705_420;
+    skos:member sitg:concept_705_421;
+    skos:member sitg:concept_705_422;
+    skos:member sitg:concept_705_423;
+    skos:member sitg:concept_705_424;
+    skos:member sitg:concept_705_425;
+    skos:member sitg:concept_705_426;
+    skos:member sitg:concept_705_427;
+    skos:member sitg:concept_705_428;
+    skos:member sitg:concept_705_429;
+    skos:member sitg:concept_705_430;
+    skos:member sitg:concept_705_431;
+    skos:member sitg:concept_705_432;
+    skos:member sitg:concept_705_433;
+    skos:member sitg:concept_705_434;
+    skos:member sitg:concept_705_435;
+    skos:member sitg:concept_705_436;
+    skos:member sitg:concept_705_437;
+    skos:member sitg:concept_705_438;
+    skos:member sitg:concept_705_439;
+    skos:member sitg:concept_705_440;
+    skos:member sitg:concept_705_441;
+    skos:member sitg:concept_705_442;
+    skos:member sitg:concept_705_443;
+    skos:member sitg:concept_705_444;
+    skos:member sitg:concept_705_445;
+    skos:member sitg:concept_705_446;
+    skos:member sitg:concept_705_447;
+    skos:member sitg:concept_705_448;
+    skos:member sitg:concept_705_449;
+    skos:member sitg:concept_705_450;
+    skos:member sitg:concept_705_451;
+    skos:member sitg:concept_705_452;
+    skos:member sitg:concept_705_453;
+    skos:member sitg:concept_705_454;
+    skos:member sitg:concept_705_455;
+    skos:member sitg:concept_705_456;
+    skos:member sitg:concept_705_457;
+    skos:member sitg:concept_705_458;
+    skos:member sitg:concept_705_459;
+    skos:member sitg:concept_705_460;
+    skos:member sitg:concept_705_461;
+    skos:member sitg:concept_705_462;
+    skos:member sitg:concept_705_463;
+    skos:member sitg:concept_705_464;
+    skos:note "[cantonal=0.22, amenag=0.2, direct=0.16, planific=0.16, regional=0.16, servic=0.16, energ=0.05, sect=0.05, teritoir=0.05]".
+
+sitg:collection_710 rdf:type skos:Collection;
+    skos:member sitg:concept_710_465;
+    skos:member sitg:concept_710_466;
+    skos:member sitg:concept_710_467;
+    skos:member sitg:concept_710_468;
+    skos:note "[genevoi=0.27, public=0.27, transport=0.27]".
+
+sitg:collection_715 rdf:type skos:Collection;
+    skos:member sitg:concept_715_469;
+    skos:member sitg:concept_715_470;
+    skos:member sitg:concept_715_471;
+    skos:member sitg:concept_715_472;
+    skos:member sitg:concept_715_473;
+    skos:member sitg:concept_715_474;
+    skos:member sitg:concept_715_475;
+    skos:member sitg:concept_715_476;
+    skos:member sitg:concept_715_477;
+    skos:member sitg:concept_715_478;
+    skos:member sitg:concept_715_479;
+    skos:member sitg:concept_715_480;
+    skos:member sitg:concept_715_481;
+    skos:member sitg:concept_715_482;
+    skos:member sitg:concept_715_483;
+    skos:member sitg:concept_715_484;
+    skos:member sitg:concept_715_485;
+    skos:member sitg:concept_715_486;
+    skos:note "[genev=0.25, grand=0.11, aeroport=0.07, art=0.07, canton=0.07, histoir=0.07, international=0.07, inventair=0.07, monument=0.07]".
+
+sitg:collection_716 rdf:type skos:Collection;
+    skos:member sitg:concept_716_487;
+    skos:member sitg:concept_716_488;
+    skos:member sitg:concept_716_489;
+    skos:member sitg:concept_716_490;
+    skos:member sitg:concept_716_491;
+    skos:member sitg:concept_716_492;
+    skos:member sitg:concept_716_493;
+    skos:member sitg:concept_716_494;
+    skos:member sitg:concept_716_495;
+    skos:member sitg:concept_716_496;
+    skos:member sitg:concept_716_497;
+    skos:member sitg:concept_716_498;
+    skos:member sitg:concept_716_499;
+    skos:member sitg:concept_716_500;
+    skos:member sitg:concept_716_501;
+    skos:member sitg:concept_716_502;
+    skos:member sitg:concept_716_503;
+    skos:member sitg:concept_716_504;
+    skos:member sitg:concept_716_505;
+    skos:member sitg:concept_716_506;
+    skos:member sitg:concept_716_507;
+    skos:member sitg:concept_716_508;
+    skos:member sitg:concept_716_509;
+    skos:member sitg:concept_716_510;
+    skos:member sitg:concept_716_511;
+    skos:member sitg:concept_716_512;
+    skos:member sitg:concept_716_513;
+    skos:note "[vile=0.4, genev=0.37, botan=0.03, conservatoir=0.03, jardin=0.03]".
+
+sitg:collection_719 rdf:type skos:Collection;
+    skos:member sitg:concept_719_514;
+    skos:member sitg:concept_719_515;
+    skos:member sitg:concept_719_516;
+    skos:member sitg:concept_719_517;
+    skos:member sitg:concept_719_518;
+    skos:member sitg:concept_719_519;
+    skos:member sitg:concept_719_520;
+    skos:member sitg:concept_719_521;
+    skos:member sitg:concept_719_522;
+    skos:member sitg:concept_719_523;
+    skos:note "[swistopo=0.51]".
+
+sitg:collection_721 rdf:type skos:Collection;
+    skos:member sitg:concept_721_524;
+    skos:member sitg:concept_721_525;
+    skos:member sitg:concept_721_526;
+    skos:member sitg:concept_721_527;
+    skos:member sitg:concept_721_528;
+    skos:member sitg:concept_721_529;
+    skos:member sitg:concept_721_530;
+    skos:member sitg:concept_721_531;
+    skos:member sitg:concept_721_532;
+    skos:member sitg:concept_721_533;
+    skos:member sitg:concept_721_534;
+    skos:member sitg:concept_721_535;
+    skos:member sitg:concept_721_536;
+    skos:member sitg:concept_721_537;
+    skos:member sitg:concept_721_538;
+    skos:member sitg:concept_721_539;
+    skos:member sitg:concept_721_540;
+    skos:member sitg:concept_721_541;
+    skos:member sitg:concept_721_542;
+    skos:member sitg:concept_721_543;
+    skos:member sitg:concept_721_544;
+    skos:member sitg:concept_721_545;
+    skos:member sitg:concept_721_546;
+    skos:member sitg:concept_721_547;
+    skos:member sitg:concept_721_548;
+    skos:member sitg:concept_721_549;
+    skos:member sitg:concept_721_550;
+    skos:member sitg:concept_721_551;
+    skos:member sitg:concept_721_552;
+    skos:member sitg:concept_721_553;
+    skos:member sitg:concept_721_554;
+    skos:member sitg:concept_721_555;
+    skos:member sitg:concept_721_556;
+    skos:member sitg:concept_721_557;
+    skos:member sitg:concept_721_558;
+    skos:member sitg:concept_721_559;
+    skos:member sitg:concept_721_560;
+    skos:member sitg:concept_721_561;
+    skos:member sitg:concept_721_562;
+    skos:member sitg:concept_721_563;
+    skos:member sitg:concept_721_564;
+    skos:member sitg:concept_721_565;
+    skos:member sitg:concept_721_566;
+    skos:member sitg:concept_721_567;
+    skos:member sitg:concept_721_568;
+    skos:member sitg:concept_721_569;
+    skos:member sitg:concept_721_570;
+    skos:member sitg:concept_721_571;
+    skos:member sitg:concept_721_572;
+    skos:member sitg:concept_721_573;
+    skos:member sitg:concept_721_574;
+    skos:member sitg:concept_721_575;
+    skos:member sitg:concept_721_576;
+    skos:member sitg:concept_721_577;
+    skos:member sitg:concept_721_578;
+    skos:member sitg:concept_721_579;
+    skos:member sitg:concept_721_580;
+    skos:member sitg:concept_721_581;
+    skos:member sitg:concept_721_582;
+    skos:member sitg:concept_721_583;
+    skos:member sitg:concept_721_584;
+    skos:member sitg:concept_721_585;
+    skos:member sitg:concept_721_586;
+    skos:member sitg:concept_721_587;
+    skos:member sitg:concept_721_588;
+    skos:member sitg:concept_721_589;
+    skos:member sitg:concept_721_590;
+    skos:member sitg:concept_721_591;
+    skos:member sitg:concept_721_592;
+    skos:member sitg:concept_721_593;
+    skos:member sitg:concept_721_594;
+    skos:member sitg:concept_721_595;
+    skos:member sitg:concept_721_596;
+    skos:member sitg:concept_721_597;
+    skos:member sitg:concept_721_598;
+    skos:member sitg:concept_721_599;
+    skos:member sitg:concept_721_600;
+    skos:member sitg:concept_721_601;
+    skos:member sitg:concept_721_602;
+    skos:member sitg:concept_721_603;
+    skos:member sitg:concept_721_604;
+    skos:member sitg:concept_721_605;
+    skos:member sitg:concept_721_606;
+    skos:member sitg:concept_721_607;
+    skos:member sitg:concept_721_608;
+    skos:member sitg:concept_721_609;
+    skos:member sitg:concept_721_610;
+    skos:member sitg:concept_721_611;
+    skos:member sitg:concept_721_612;
+    skos:member sitg:concept_721_613;
+    skos:member sitg:concept_721_614;
+    skos:member sitg:concept_721_615;
+    skos:member sitg:concept_721_616;
+    skos:member sitg:concept_721_617;
+    skos:member sitg:concept_721_618;
+    skos:member sitg:concept_721_619;
+    skos:member sitg:concept_721_620;
+    skos:member sitg:concept_721_621;
+    skos:member sitg:concept_721_622;
+    skos:member sitg:concept_721_623;
+    skos:member sitg:concept_721_624;
+    skos:member sitg:concept_721_625;
+    skos:member sitg:concept_721_626;
+    skos:member sitg:concept_721_627;
+    skos:member sitg:concept_721_628;
+    skos:member sitg:concept_721_629;
+    skos:member sitg:concept_721_630;
+    skos:member sitg:concept_721_631;
+    skos:member sitg:concept_721_632;
+    skos:member sitg:concept_721_633;
+    skos:member sitg:concept_721_634;
+    skos:member sitg:concept_721_635;
+    skos:member sitg:concept_721_636;
+    skos:member sitg:concept_721_637;
+    skos:member sitg:concept_721_638;
+    skos:member sitg:concept_721_639;
+    skos:member sitg:concept_721_640;
+    skos:member sitg:concept_721_641;
+    skos:member sitg:concept_721_642;
+    skos:member sitg:concept_721_643;
+    skos:member sitg:concept_721_644;
+    skos:member sitg:concept_721_645;
+    skos:member sitg:concept_721_646;
+    skos:member sitg:concept_721_647;
+    skos:member sitg:concept_721_648;
+    skos:member sitg:concept_721_649;
+    skos:member sitg:concept_721_650;
+    skos:member sitg:concept_721_651;
+    skos:member sitg:concept_721_652;
+    skos:member sitg:concept_721_653;
+    skos:member sitg:concept_721_654;
+    skos:member sitg:concept_721_655;
+    skos:member sitg:concept_721_656;
+    skos:member sitg:concept_721_657;
+    skos:member sitg:concept_721_658;
+    skos:member sitg:concept_721_659;
+    skos:member sitg:concept_721_660;
+    skos:member sitg:concept_721_661;
+    skos:member sitg:concept_721_662;
+    skos:member sitg:concept_721_663;
+    skos:member sitg:concept_721_664;
+    skos:member sitg:concept_721_665;
+    skos:member sitg:concept_721_666;
+    skos:member sitg:concept_721_667;
+    skos:member sitg:concept_721_668;
+    skos:member sitg:concept_721_669;
+    skos:member sitg:concept_721_670;
+    skos:member sitg:concept_721_671;
+    skos:member sitg:concept_721_672;
+    skos:member sitg:concept_721_673;
+    skos:member sitg:concept_721_674;
+    skos:member sitg:concept_721_675;
+    skos:member sitg:concept_721_676;
+    skos:member sitg:concept_721_677;
+    skos:member sitg:concept_721_678;
+    skos:member sitg:concept_721_679;
+    skos:member sitg:concept_721_680;
+    skos:member sitg:concept_721_681;
+    skos:member sitg:concept_721_682;
+    skos:member sitg:concept_721_683;
+    skos:member sitg:concept_721_684;
+    skos:member sitg:concept_721_685;
+    skos:member sitg:concept_721_686;
+    skos:member sitg:concept_721_687;
+    skos:member sitg:concept_721_688;
+    skos:member sitg:concept_721_689;
+    skos:member sitg:concept_721_690;
+    skos:member sitg:concept_721_691;
+    skos:member sitg:concept_721_692;
+    skos:member sitg:concept_721_693;
+    skos:member sitg:concept_721_694;
+    skos:member sitg:concept_721_695;
+    skos:member sitg:concept_721_696;
+    skos:member sitg:concept_721_697;
+    skos:member sitg:concept_721_698;
+    skos:member sitg:concept_721_699;
+    skos:member sitg:concept_721_700;
+    skos:member sitg:concept_721_701;
+    skos:member sitg:concept_721_702;
+    skos:member sitg:concept_721_703;
+    skos:member sitg:concept_721_704;
+    skos:member sitg:concept_721_705;
+    skos:member sitg:concept_721_706;
+    skos:member sitg:concept_721_707;
+    skos:member sitg:concept_721_708;
+    skos:member sitg:concept_721_709;
+    skos:member sitg:concept_721_710;
+    skos:member sitg:concept_721_711;
+    skos:member sitg:concept_721_712;
+    skos:member sitg:concept_721_713;
+    skos:member sitg:concept_721_714;
+    skos:member sitg:concept_721_715;
+    skos:member sitg:concept_721_716;
+    skos:member sitg:concept_721_717;
+    skos:member sitg:concept_721_718;
+    skos:member sitg:concept_721_719;
+    skos:member sitg:concept_721_720;
+    skos:member sitg:concept_721_721;
+    skos:member sitg:concept_721_722;
+    skos:member sitg:concept_721_723;
+    skos:note "[direction=0.31, general=0.31, eau=0.17, mobilit=0.08, natur=0.06, paysag=0.06, agricultur=0.04, enseign=0.02, cas=0.01]".
+
+sitg:concept_701_1 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/OLD_cad_batiment_horsol_histo.xml";
+    skos:note "[cantonal=0.37, mensu=0.35, oficiel=0.35, direction=0.31]".
+
+sitg:concept_701_2 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/OLD_cad_batiment_sousol_histo.xml";
+    skos:note "[cantonal=0.37, mensu=0.35, oficiel=0.35, direction=0.31]".
+
+sitg:concept_701_3 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_danger_aleas.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_4 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_danger_carte_indicative.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_5 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_danger_synth_communes.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_6 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_zone_inondable_100ans.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_7 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_zone_inondable_300ans.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_8 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_zone_inondable_30ans.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_9 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_adresse.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_10 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_adresse_archive.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_11 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_bati_epoque.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_12 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_bati_epoque_modifie.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_13 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_bati_projet.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_14 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_3D.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_15 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_histo.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_16 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_horsol.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_17 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_horsol_toit.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_18 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_horsol_toit_sp.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_19 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_batiment_sousol.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_20 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ccsh4.xml";
+    skos:note "[cantonal=0.37, mensu=0.35, oficiel=0.35, direction=0.31]".
+
+sitg:concept_701_21 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ccsol.xml";
+    skos:note "[cantonal=0.37, mensu=0.35, oficiel=0.35, direction=0.31]".
+
+sitg:concept_701_22 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_commune.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_23 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_couvert.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_24 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_couverture_sol_basse.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_25 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_couverture_sol_basse_agglo.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_26 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_couverture_sol_haute.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_27 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ddp.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_28 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ddp_histo.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_29 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domaine_routier.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_30 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_objets_niv0.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_31 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_objets_niv1.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_32 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_objets_niv2.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_33 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_objets_niv_1.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_34 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_objets_niv_2.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_35 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_revet_niv0.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_36 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_revet_niv1.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_37 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_revet_niv2.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_38 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_revet_niv_1.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_39 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_domroutier_revet_niv_2.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_40 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_element_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_41 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_grid_autres_objets.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_42 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_grid_batiments.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_43 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_grid_changements.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_44 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_grid_vegetation.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_45 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_limite_canton.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_46 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_marquise.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_47 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_nature_sol.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_48 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_nomenclature_noms_locaux.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_49 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_objetdivers.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_50 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_parcelle_mensu.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_51 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_parcelle_mensu_histo.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_52 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_photo_aerienne_ancienne.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_53 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_piscine.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_54 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_planrf.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_55 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_point_auxiliaire.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_56 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_point_limite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_57 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_point_particulier.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_58 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_bf.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_59 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_mensuration.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_60 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_niv.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_61 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_niv_pfa3.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_62 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_pp.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_63 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_pointfixe_tri.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_64 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_assainis_collecteur.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_65 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_assainis_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_66 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_chauffage_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_67 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_chauffage_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_68 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_chauffage_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_69 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_eau_potable_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_70 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_eau_potable_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_71 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_eau_potable_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_72 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_electricite_bord_nappe.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_73 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_electricite_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_74 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_electricite_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_75 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_electricite_tube.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_76 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_gaz_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_77 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_gaz_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_78 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_gaz_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_79 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_gaz_perimetre_securite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_80 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_oleoduc_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_81 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_oleoduc_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_82 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_oleoduc_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_83 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_oleoduc_perimetre_secu.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_84 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_telecom_bord_nappe.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_85 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_telecom_install.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_86 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_telecom_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_87 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_telecom_tube.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_88 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_ss_vegetal_noeud.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_89 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_tolerance.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_90 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cad_voie.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_91 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cadia.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_92 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cte_dossier.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_93 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cte_objet_sousol_L.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_94 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cte_objet_sousol_P.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_95 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cte_objet_sousol_S.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_96 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_chauffage_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_97 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_chauffage_sonde.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_98 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_chauffage_zone_sondes.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_99 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_divers_conduite.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_100 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_divers_point.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_101 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_divers_surface.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_102 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_geotech_ligne.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_103 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_geotech_point.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_104 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_geotech_surface.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_105 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ctss_telecom_tube.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_106 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_infrastructure_culturelle.xml";
+    skos:note "[culturel=0.33, afair=0.3, servic=0.16]".
+
+sitg:concept_701_107 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_classement.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_108 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_inventaire.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_109 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_patrimoine_industriel.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_110 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_perimetre_protege.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_111 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_analyses_reseau_geos.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_112 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_analyses_sol_parcelles.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_113 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_carte_risque_erosion.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_114 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_perte_sol_1_tonne.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_115 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_perte_sol_2_tonnes.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_116 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_perte_sol_4_tonnes.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_117 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_sondages_pedologiques.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_118 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_texture_sols_cultives.xml";
+    skos:note "[ecol=0.25, hes=0.25, ingenieu=0.25, luli=0.25]".
+
+sitg:concept_701_119 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/epoque.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_120 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_platane.xml";
+    skos:note "[foret=0.33, natur=0.26, paysag=0.26, servic=0.16]".
+
+sitg:concept_701_121 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_3D_batiment_basic_facade.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_122 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_3D_batiment_basic_toit.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_123 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_3D_batiment_sp_facade.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_124 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_3D_batiment_sp_toit.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_125 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_3D_pont.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_126 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_alti_mnt25_courbe.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_127 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_alti_mnt25_point.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_128 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_api_apiculteur.xml";
+    skos:note "[consom=0.27, veterinair=0.27, afair=0.26, servic=0.14]".
+
+sitg:concept_701_129 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_api_rel_rucher_apiculteur.xml";
+    skos:note "[consom=0.27, veterinair=0.27, afair=0.26, servic=0.14]".
+
+sitg:concept_701_130 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_api_rucher.xml";
+    skos:note "[consom=0.27, veterinair=0.27, afair=0.26, servic=0.14]".
+
+sitg:concept_701_131 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_batiment_relief.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_132 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_chiens_museles.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_133 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_communes_ch_fr.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_134 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_communes_ge_simplifiees.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_135 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_communes_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_136 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_fond_blanc.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_137 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_girec.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_138 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_hauteur_bat.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_139 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_indice_financier_communal.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_140 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_lieux_hebergement.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_141 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_courbe_niveau.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_142 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_grid_hauteur.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_143 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_grid_lac.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_144 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_grid_surface.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_145 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_grid_terrain.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_146 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_grid_terrain_agglo.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_147 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_pente.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_148 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_relief_ombre_agglo.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_149 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_relief_ombre_lac.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_150 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_relief_ombre_surface.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_151 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_relief_ombre_terrain.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_152 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mna_srtm_courbe_niveau.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_153 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_mnh_grid_hauteur.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_154 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_musee.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_155 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_poste_pl.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_156 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_poste_pt.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_157 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_carte_region_100k.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_158 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_carte_region_20k.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_159 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_carte_region_250k.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_160 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_carte_region_50k.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_161 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_carte_region_5k.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_162 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_cn100000_couleurs.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_163 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_cn200000_couleurs.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_164 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_cn25000_couleurs.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_165 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_cn50000_couleurs.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_166 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_exposition.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_167 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_XIX_XX.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_168 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_napoleon.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_169 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_rdc.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_170 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ign_scan100.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_171 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ign_scanregion.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_172 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ortho_10m_agglo.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_173 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ortho_haute_savoie.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_174 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ortho_pays_gex.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_175 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ortho_sitl.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_176 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_ortho_swissphotos.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_177 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_orthophotos.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_178 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_orthophotos_16cm.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_179 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_orthophotos_2m.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_180 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_orthophotos_hiver.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_181 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_pe_2500_couleur.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_182 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_pe_2500_couleur_07.xml";
+    skos:note "[cantonal=0.37, mensu=0.35, oficiel=0.35, direction=0.31]".
+
+sitg:concept_701_183 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_pe_2500_gris.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_184 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_plan_canton.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_185 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_plan_tpg.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_186 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_plan_ville.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_187 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_plan_ville_sans.xml.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_188 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_plan_ville.xml_seul.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_189 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_spot_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_190 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_spot_region_bis.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_191 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_statistique_canton.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_192 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_votation_pl.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_193 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_votation_pt.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_194 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geokiosk_adr.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_195 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geokiosk_voie.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_196 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_acces_parking.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_197 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_aeroport.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_198 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_carrefour.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_199 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_carrefour_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_200 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_debarcadere.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_201 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_entretien_autoroute.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_202 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_ferroviaire.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_203 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_gare_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_204 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_graphe_ferroviaire_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_205 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_graphe_routier.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_206 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_graphe_routier_region.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_207 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_graphe_voies_officielles.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_208 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_mobilite_douce.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_209 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_noeud_projet.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_210 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_quai_gare.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_211 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_troncon_projet.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_212 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gmo_voie_navigable.xml";
+    skos:note "[mensu=0.44, oficiel=0.44, servic=0.34]".
+
+sitg:concept_701_213 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_all_ancienne_enveloppe.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_214 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_all_ancienne_isoligne.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_215 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_autorisation_sonde.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_216 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_dechetterie.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_217 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_dechetterie_fr.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_218 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_dechetterie_vd.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_219 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_graviere_autorisation.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_220 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_graviere_exploitation.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_221 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_graviere_plan_directeur.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_222 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_graviere_plan_extraction.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_223 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_hydro_nappe.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_224 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_hydro_puit.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_225 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_isopieze.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_226 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_it_dechets_autor.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_227 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_molasse_enveloppe.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_228 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_molasse_isol.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_229 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_mouv_permanent.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_230 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_piezometre.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_231 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_quai_transfert_dechets_fr.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_232 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_quai_transfert_dechets_ge.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_233 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_riss_enveloppe.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_234 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_riss_isol.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_235 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_secteurs_protect_eaux.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_236 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_sites_pollues.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_237 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_sols_fondation.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_238 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_sondage.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_239 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_sondage_electrique.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_240 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_traitement_dechets_fr.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_241 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_traitement_dechets_vd.xml";
+    skos:note "[aglom=0.26, projet=0.26, urbanism=0.26, ofic=0.25, servic=0.15]".
+
+sitg:concept_701_242 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_zone_instable.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_243 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/gol_zone_prot_puit.xml";
+    skos:note "[dechet=0.31, geolog=0.31, sol=0.31, servic=0.19]".
+
+sitg:concept_701_244 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_arrondissement.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_245 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_canton.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_246 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_commune.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_247 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_commune_01.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_248 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_departement.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_249 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_admin_limite_administrative.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_250 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_adresse.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_251 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_batiment.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_252 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_cimetiere.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_253 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_construction_lineaire.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_254 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_construction_ponctuelle.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_255 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_construction_surfacique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_256 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_piste_aerodrome.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_257 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_point_activite_interet.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_258 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_reservoir.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_259 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_surface_activite.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_260 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_bati_terrain_sport.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_261 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_chef_lieu_commune.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_262 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_commune.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_263 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_cours_d_eau.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_264 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_hydronyme.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_265 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_lieu_dit_habite.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_266 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_lieu_dit_non_habite.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_267 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_oronyme.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_268 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_toponyme_communication.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_269 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_divers_toponyme_divers.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_270 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_energie_canalisation.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_271 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_energie_ligne_electrique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_272 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_energie_poste_transformation.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_273 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_energie_pylone.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_274 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_aerodrome.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_275 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_cimetiere.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_276 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_construction_elevee.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_277 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_digue.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_278 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_enceinte_militaire.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_279 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_ligne_electrique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_280 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_piste_aerodrome.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_281 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_equi_transport_cable.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_282 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_ferro_noeud_ferre.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_283 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_ferro_troncon_voie_ferree.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_284 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_habi_zone_occupation_sol.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_285 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_point_eau.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_286 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_ponctuel_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_287 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_surface_eau.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_288 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_surface_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_289 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_troncon_cours_eau.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_290 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_troncon_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_291 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydro_zone_hydrograph_texture.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_292 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydrographie_surfacique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_293 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_hydrographie_texture.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_294 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_lieu_dit_habite.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_295 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_noeud_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_296 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_oro_ligne_orographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_297 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_point_eau_isole.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_298 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_region_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_299 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_acces_equipement.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_300 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_communication_restreinte.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_301 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_debut_section.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_302 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_equipement_routier.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_303 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_franchissement.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_304 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_itineraire.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_305 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_liaison_maritime.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_306 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_noeud_routier.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_307 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_surface_route.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_308 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_troncon_chemin.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_309 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_troncon_route.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_310 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_route_troncon_route_01.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_311 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_secteur.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_312 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_sous_secteur.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_313 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_etablissement.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_314 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_massif_boise.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_315 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_point_remarq_relief.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_316 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_zone_activite.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_317 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_zone_habitat.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_318 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_toponymie_zone_reglt_touristiq.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_319 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_transp_aire_triage.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_320 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_transp_transport_cable.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_321 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_transp_troncon_voie_ferree.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_322 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_troncon_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_323 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_troncon_route.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_324 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ign_zone_hydrographique.xml";
+    skos:note "[foresti=0.3, geograph=0.3, institut=0.3, national=0.3, inform=0.26]".
+
+sitg:concept_701_325 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_constructions_illegales.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_326 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_graphe_eau_1961.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_327 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_graphe_eau_dist_constr_07.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_328 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_graphe_eau_ecomorphologie.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_329 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_bacteriologie.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_330 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_dich.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_331 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_ibgn.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_332 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_physicochimie.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_333 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_photos_rives_lac_cipel.xml";
+    skos:note "[asaini=0.33, sol=0.27, eau=0.23, servic=0.16]".
+
+sitg:concept_701_334 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/localisation.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_335 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/meta_info.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_336 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_patrimoine_ops.xml";
+    skos:note "[site=0.36, monument=0.34, servic=0.2]".
+
+sitg:concept_701_337 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_sites_archeo.xml";
+    skos:note "[archeolog=0.42, servic=0.21]".
+
+sitg:concept_701_338 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pol_poste_police.xml";
+    skos:note "[polic=0.45]".
+
+sitg:concept_701_339 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pol_secteur_poste_police.xml";
+    skos:note "[polic=0.45]".
+
+sitg:concept_701_340 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rf_rfo_prop_publiques.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_341 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rf_rfo_proprietaire.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_342 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rfo_proprietaire.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_343 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rfo_servitude_ligne.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_344 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rfo_servitude_point.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_345 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rfo_servitude_surface.xml";
+    skos:note "[fonci=0.34, registr=0.34]".
+
+sitg:concept_701_346 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sca_entreprise_cadia.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_347 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sca_espass_batiments.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_348 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sca_espass_chantiers_communaux.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_349 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sca_espass_raccordements.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_350 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_indice.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_351 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_vue_indice.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_701_352 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_groupes_ilots.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_353 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_pbc_collections.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_354 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_pbc_fontaine.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_355 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_pbc_objet.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_356 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_pbc_zone.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_357 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sci_secteur_ramonage.xml";
+    skos:note "[civil=0.35, securit=0.34]".
+
+sitg:concept_701_358 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sec_paratonnerre_radio.xml";
+    skos:note "[msst=0.33, securit=0.3, servic=0.16]".
+
+sitg:concept_701_359 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sidit_telecom_noeud.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_360 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sidit_telecom_tube.xml";
+    skos:note "[organ=0.39, system=0.34, inform=0.29, servic=0.24]".
+
+sitg:concept_701_361 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sig_eclairage_public_conduite.xml";
+    skos:note "[sig=0.45]".
+
+sitg:concept_701_362 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sig_eclairage_public_point.xml";
+    skos:note "[sig=0.45]".
+
+sitg:concept_701_363 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sil_poste_pec.xml";
+    skos:note "[geomat=0.39, system=0.37, inform=0.32, servic=0.26]".
+
+sitg:concept_702_364 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eco_bruit_cff.xml";
+    skos:note "[bruit=0.19, contr=0.19, ionisant=0.19, non=0.19, rayon=0.19, protection=0.18, cantonal=0.14, servic=0.1]".
+
+sitg:concept_702_365 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eco_bruit_cff_relation.xml";
+    skos:note "[bruit=0.19, contr=0.19, ionisant=0.19, non=0.19, rayon=0.19, protection=0.18, cantonal=0.14, servic=0.1]".
+
+sitg:concept_702_366 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eco_bruit_cff_valeur.xml";
+    skos:note "[bruit=0.19, contr=0.19, ionisant=0.19, non=0.19, rayon=0.19, protection=0.18, cantonal=0.14, servic=0.1]".
+
+sitg:concept_702_367 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/nrg_air_ramonage.xml";
+    skos:note "[air=0.32, protection=0.3, cantonal=0.23, servic=0.16]".
+
+sitg:concept_702_368 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spair_immissions_no2.xml";
+    skos:note "[air=0.32, protection=0.3, cantonal=0.23, servic=0.16]".
+
+sitg:concept_702_369 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spair_immissions_no2_2004_2011.xml";
+    skos:note "[air=0.32, protection=0.3, cantonal=0.23, servic=0.16]".
+
+sitg:concept_702_370 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spbr_antenne_telephonie_public.xml";
+    skos:note "[bruit=0.19, contr=0.19, ionisant=0.19, non=0.19, rayon=0.19, protection=0.18, cantonal=0.14, servic=0.1]".
+
+sitg:concept_702_371 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spbr_bruit_routier_facade.xml";
+    skos:note "[bruit=0.19, contr=0.19, ionisant=0.19, non=0.19, rayon=0.19, protection=0.18, cantonal=0.14, servic=0.1]".
+
+sitg:concept_702_372 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spj_secteur_protection.xml";
+    skos:note "[mineu=0.34, protection=0.3, servic=0.16]".
+
+sitg:concept_705_373 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ZOLD_ocs_rfa_adresse.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_374 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ZOLD_ocs_rfa_secteur.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_375 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ZOLD_ocs_rfe_adresse.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_376 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_atlas_culturel.xml";
+    skos:note "[cultur=0.38, cantonal=0.26, servic=0.19]".
+
+sitg:concept_705_377 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_communes.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_378 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_communes_simplifiees.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_379 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_infra_supr_agglo.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_380 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_mesures_l.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_381 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_mesures_p.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_382 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_bas_marais.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_383 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_district_franc_fed.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_384 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_espace_sous_gestion.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_385 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_haut_marais.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_386 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_mise_a_ban.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_387 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_n2000_dh.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_388 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_n2000_do.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_389 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_obat.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_390 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_oroem.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_391 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_parc_jura_vaudois.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_392 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_parc_nat_haut_jura.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_393 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_paysage.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_394 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_perimetre_protege.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_395 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_prairie_paturage.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_396 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_ramsar.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_397 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_reseau_agro_ecolo.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_398 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_reserves.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_399 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_site_objet_classe.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_400 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_site_objet_inscrit_L.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_401 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_site_objet_inscrit_S.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_402 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_sites_emeraudes.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_403 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_sites_marecageux.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_404 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_zico.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_405 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_znieff.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_406 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_nat_zones_alluviales.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_407 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_perimetre.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_408 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_planif_territ.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_409 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_centralites_axes_dev.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_410 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_connexions_paysage.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_411 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_cont_nat.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_412 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_entites_agricoles.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_413 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_lieux_frottement.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_414 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_paca.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_415 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_psd.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_416 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_requalif_espace_rue.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_417 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_rives_penetrantes.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_418 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_voiesvertes.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_419 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sch_zones_urb.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_420 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_sites_activites.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_421 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_stat_logement_2006_2008.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_422 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_territoire.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_423 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_zone_aff_simplifiee.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_424 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/oci_stations_services.xml";
+    skos:note "[inspection=0.23, relation=0.23, travail=0.23, ofic=0.19, cantonal=0.16]".
+
+sitg:concept_705_425 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_batiment_adresse.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_426 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_batiment_secteur.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_427 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_pop_adresse.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_428 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_pop_secteur.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_429 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_rfe_secteur.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_430 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ocs_stat_commune.xml";
+    skos:note "[statist=0.35, ofic=0.32, cantonal=0.27]".
+
+sitg:concept_705_431 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ols_logement_subv.xml";
+    skos:note "[loge=0.37, ofic=0.3]".
+
+sitg:concept_705_432 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/reg_entreprise.xml";
+    skos:note "[inspection=0.23, relation=0.23, travail=0.23, ofic=0.19, cantonal=0.16]".
+
+sitg:concept_705_433 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_batiment_patrimoine.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_434 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_cet_valide.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_435 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_chaudiere.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_436 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_indice_dernier.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_437 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_indice_historique.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_438 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_indice_moyenne.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_439 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_solaire_brut_annuel.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_440 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_solaire_toiture_annuel.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_441 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_thermo_brute_annuelle.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_442 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/scane_thermo_toiture_annuelle.xml";
+    skos:note "[energ=0.42, cantonal=0.32, servic=0.23]".
+
+sitg:concept_705_443 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/seie_perimetre_etude_impact.xml";
+    skos:note "[environ=0.24, etud=0.24, impact=0.24, cantonal=0.16, servic=0.12]".
+
+sitg:concept_705_444 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_autor_dossier.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_445 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_autor_objet.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_446 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_degres_sensibilite_opb.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_447 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_plan_localise.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_448 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_recens_logmt_econom.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_449 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_reglements_speciaux.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_450 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_surelevation_batiment.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_451 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_surelevation_zone.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_452 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_dd.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_453 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_dp.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_454 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_dr.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_455 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_mz.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_456 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_pdq.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_457 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_pdzi.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_458 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_plq.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_459 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_pot.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_460 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_synthurba_ps.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_461 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sit_zone_amenag.xml";
+    skos:note "[sect=0.31, teritoir=0.31, amenag=0.26, general=0.21, servic=0.18]".
+
+sitg:concept_705_462 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spd_assolement.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_463 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spd_equipement_public.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_705_464 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/spd_inv_agricole.xml";
+    skos:note "[direct=0.28, planific=0.28, regional=0.28, amenag=0.27, cantonal=0.26, servic=0.18]".
+
+sitg:concept_710_465 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/tpg_arrets.xml";
+    skos:note "[genevoi=0.27, public=0.27, transport=0.27]".
+
+sitg:concept_710_466 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/tpg_lignes.xml";
+    skos:note "[genevoi=0.27, public=0.27, transport=0.27]".
+
+sitg:concept_710_467 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/tpg_mats.xml";
+    skos:note "[genevoi=0.27, public=0.27, transport=0.27]".
+
+sitg:concept_710_468 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/tpg_schema_arrets.xml";
+    skos:note "[genevoi=0.27, public=0.27, transport=0.27]".
+
+sitg:concept_715_469 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_exploitant.xml";
+    skos:note "[grand=0.4, genev=0.33]".
+
+sitg:concept_715_470 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_groupe_prestation.xml";
+    skos:note "[grand=0.4, genev=0.33]".
+
+sitg:concept_715_471 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_groupe_produit.xml";
+    skos:note "[grand=0.4, genev=0.33]".
+
+sitg:concept_715_472 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_prestation.xml";
+    skos:note "[grand=0.4, genev=0.33]".
+
+sitg:concept_715_473 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agglo_produit.xml";
+    skos:note "[grand=0.4, genev=0.33]".
+
+sitg:concept_715_474 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/aig_leq_05_06.xml";
+    skos:note "[aeroport=0.3, international=0.3, genev=0.24]".
+
+sitg:concept_715_475 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/aig_leq_06_22.xml";
+    skos:note "[aeroport=0.3, international=0.3, genev=0.24]".
+
+sitg:concept_715_476 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/aig_leq_22_23.xml";
+    skos:note "[aeroport=0.3, international=0.3, genev=0.24]".
+
+sitg:concept_715_477 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/aig_leq_23_00.xml";
+    skos:note "[aeroport=0.3, international=0.3, genev=0.24]".
+
+sitg:concept_715_478 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_billon_parc.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_479 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_grange_batiment.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_480 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dps_grange_parc.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_481 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/fti_perimetre.xml";
+    skos:note "[fond=0.24, industriel=0.24, terain=0.24, genev=0.18]".
+
+sitg:concept_715_482 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_billon_1726.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_483 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_ceard_1837.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_484 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/geo_raster_histo_grange_1896.xml";
+    skos:note "[art=0.21, canton=0.21, histoir=0.21, inventair=0.21, monument=0.2, genev=0.18]".
+
+sitg:concept_715_485 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/uni_insta_sport_lieux.xml";
+    skos:note "[universit=0.39, genev=0.3]".
+
+sitg:concept_715_486 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/uni_insta_sport_parcour.xml";
+    skos:note "[universit=0.39, genev=0.3]".
+
+sitg:concept_716_487 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eil_carte_pedo_sols_agricoles.xml";
+    skos:note "[botan=0.23, conservatoir=0.23, jardin=0.23, vile=0.2, genev=0.19]".
+
+sitg:concept_716_488 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sipv_ica_arbre_isole.xml";
+    skos:note "[botan=0.23, conservatoir=0.23, jardin=0.23, vile=0.2, genev=0.19]".
+
+sitg:concept_716_489 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sipv_vegetation_25000.xml";
+    skos:note "[botan=0.23, conservatoir=0.23, jardin=0.23, vile=0.2, genev=0.19]".
+
+sitg:concept_716_490 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_acces_barrage.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_491 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_barrage.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_492 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_contient.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_493 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_desc_ge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_494 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_detail_barrage.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_495 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_graphe_eau_fus.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_496 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_installation.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_497 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_materiel.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_498 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_photographies.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_499 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_pt_mise_eau.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_500 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_pt_ref_ge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_501 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_bar_ge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_502 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_cont_mat.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_503 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_cont_mat_inst.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_504 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_dbar_inst.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_505 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_dge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_506 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_ge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_507 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_photo_bar.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_508 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_photo_pme.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_509 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/sis_v_pme_ge.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_510 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vdg_seve_lignes.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_511 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vdg_seve_points.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_512 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vdg_seve_surfaces.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_716_513 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vdg_terrasse_resto.xml";
+    skos:note "[vile=0.42, genev=0.4]".
+
+sitg:concept_719_514 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/atlas_geologique.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_515 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/carte_geologique.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_516 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/carte_hydrogeologique.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_517 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/carte_techtonique.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_518 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/cartes_nationales.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_519 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/mnt25.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_520 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rimini.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_521 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/swissimage.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_522 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vector200.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_719_523 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vector25.xml";
+    skos:note "[swistopo=0.51]".
+
+sitg:concept_721_524 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/Zold_ffp_releve_terrain_foret.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_525 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_carte_sol_vigne.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_526 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_comp_ecolo.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_527 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_exposition_bise.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_528 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_infection_feu_bacterien.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_529 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_interdit_morceler.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_530 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_phenologi.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_531 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_plante_hote_feu_bacterien.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_532 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_precocite_extrapolee.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_533 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_precocite_observee.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_534 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_profil_vigne.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_535 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_radiation_solaire.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_536 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_registre_vigne.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_537 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_sondage_vigne.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_538 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_tuyaux_drainage.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_539 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_verger_pepiniere.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_540 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_zone_elimination_preventive.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_541 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/agr_zones_drainage.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_542 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_acteurs_sante.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_543 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_centre_cass.xml";
+    skos:note "[cas=0.41, direction=0.25, general=0.25]".
+
+sitg:concept_721_544 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etab_handicape.xml";
+    skos:note "[action=0.29, social=0.29, direction=0.17, general=0.17]".
+
+sitg:concept_721_545 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etablissement_ems.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_546 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etablissement_encadrement.xml";
+    skos:note "[cas=0.41, direction=0.25, general=0.25]".
+
+sitg:concept_721_547 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etoile_autres_orgas.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_548 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etoile_medecins.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_549 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_etoile_pharmacies.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_550 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_foyer_jour.xml";
+    skos:note "[cas=0.41, direction=0.25, general=0.25]".
+
+sitg:concept_721_551 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_hopitaux_cliniques.xml";
+    skos:note "[sant=0.42, direction=0.26, general=0.26]".
+
+sitg:concept_721_552 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/das_secteur_socio_sanitaires.xml";
+    skos:note "[cas=0.41, direction=0.25, general=0.25]".
+
+sitg:concept_721_553 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/des_exploitation_avicole.xml";
+    skos:note "[econom=0.32, afair=0.3, direction=0.19, general=0.18]".
+
+sitg:concept_721_554 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/des_taxe_touristique.xml";
+    skos:note "[econom=0.32, afair=0.3, direction=0.19, general=0.18]".
+
+sitg:concept_721_555 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_commerce_po_pl.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_556 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_commerce_po_pt.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_557 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_cycles_co_pl.xml";
+    skos:note "[cycl=0.3, orient=0.3, direction=0.18, general=0.17]".
+
+sitg:concept_721_558 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_cycles_co_pt.xml";
+    skos:note "[cycl=0.3, orient=0.3, direction=0.18, general=0.17]".
+
+sitg:concept_721_559 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_diplome_po_pl.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_560 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_diplome_po_pt.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_561 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_ecole_postobligatoire.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_562 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_ecole_primaire_batiment.xml";
+    skos:note "[primair=0.34, enseign=0.31, direction=0.21, general=0.21]".
+
+sitg:concept_721_563 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_ecole_primaire_pt.xml";
+    skos:note "[primair=0.34, enseign=0.31, direction=0.21, general=0.21]".
+
+sitg:concept_721_564 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_ecole_secondaire_pt.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_565 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_eleves_inscriptions_po.xml";
+    skos:note "[primair=0.34, enseign=0.31, direction=0.21, general=0.21]".
+
+sitg:concept_721_566 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_eleves_repartitions_po.xml";
+    skos:note "[primair=0.34, enseign=0.31, direction=0.21, general=0.21]".
+
+sitg:concept_721_567 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_gymnase_po_pl.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_568 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_gymnase_po_pt.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_569 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_po_etablissements.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_570 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_po_perimetres.xml";
+    skos:note "[postobilgatoir=0.28, secondair=0.28, enseign=0.27, direction=0.18, general=0.18]".
+
+sitg:concept_721_571 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/dip_xeleves_repartitions_po.xml";
+    skos:note "[primair=0.34, enseign=0.31, direction=0.21, general=0.21]".
+
+sitg:concept_721_572 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/eco_plages.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_573 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_atlas_lugrin_territoires.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_574 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_atlas_oiseaux_lugrin.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_575 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_cadastre_foret.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_576 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_chiens.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_577 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_chiens_interdits.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_578 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_convention_ramsar.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_579 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_corps_mort.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_580 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_corps_mort_cases.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_581 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_fonction_pdf.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_582 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_gale.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_583 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_lisieres_forestieres.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_584 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_loisir_line.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_585 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_mises_ban.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_586 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_obat_revision_2010.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_587 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_basmarais.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_588 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_basmarais_2.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_589 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_iza.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_590 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_oroem.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_591 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_paturages_secs.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_592 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_paysage.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_593 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_srb_fixe.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_594 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_srb_itinerant.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_595 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_ofefp_vegetation_iza.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_596 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_panneaux.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_597 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_places_amarrage.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_598 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_postes_garde.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_599 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_rae.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_600 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_reserves_naturelles.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_601 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_secteurs_gardes.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_602 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_sentier_pedestre.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_603 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_tendance_pdf.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_604 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_terriers.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_605 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_zone_a_risque_faune_zone_a.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_606 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/ffp_zone_a_risque_faune_zone_b.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_607 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_bv_fractions.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_608 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_bv_graphe_eau.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_609 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_bv_principaux.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_610 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_courbes_bathymetriques.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_611 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_crues.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_612 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_degres.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_613 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_erosions.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_614 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_statut_cartes.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_615 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_zid_commentaires.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_616 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_zid_photos.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_617 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dangers_zones_indicatives.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_618 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_dp_sites_visites.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_619 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ecoulement_preferentiel_bv.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_620 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_espace_minimal.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_621 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_evenement_inodation.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_622 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_evenement_inond_etendue.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_623 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_evenement_inondation.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_624 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_graphe_eau.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_625 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_graphe_eau_aggrege.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_626 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_dc_bact.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_627 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_dc_dich.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_628 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_dc_ibgn.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_629 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_dc_physicochimie.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_630 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_poissons_distribution.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_631 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_poissons_troncons.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_632 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_stations_mesures.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_633 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_tm_bact.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_634 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_tm_dich.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_635 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_tm_ibgn.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_636 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_hyb_tm_physicochimie.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_637 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_100_ans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_638 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_10_ans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_639 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_2_ans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_640 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_300_ans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_641 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_30_ans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_642 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_cond.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_643 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_ev_etendue.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_644 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_inondation_ev_ponctuel.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_645 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_km_administratif.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_646 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_km_curviligne.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_647 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ouvrages_franchissement.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_648 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ouvrages_lit.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_649 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ouvrages_protection.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_650 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ouvrages_regulation.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_651 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_ouvrages_surfacique.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_652 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_pe_secteurs.xml";
+    skos:note "[natur=0.36, paysag=0.36, direction=0.27, general=0.26]".
+
+sitg:concept_721_653 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_point_pompage_exercices.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_654 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_prelevement_captage.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_655 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_surfaces_inconstr.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_656 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_surfaces_inconstr_plans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_657 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/lce_zones_renaturees.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_658 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_amenag_2roues.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_659 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_amenag_transport_collectif.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_660 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_carrefour_signal_lumineux.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_661 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_chantier.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_662 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_chantier_archive.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_663 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_compteur.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_664 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_compteur_agrege.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_665 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_evenement.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_666 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_fichiermesures.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_667 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_mesures.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_668 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_mesures_registry.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_669 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_comptage_trafic.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_670 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_cyclevasions.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_671 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_immatriculation_adresse.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_672 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_kit_ecole.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_673 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_macaron.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_674 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_bordure.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_675 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_ligne.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_676 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_rail_tc_provi.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_677 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_reg_mobilier.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_678 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_reg_vegetation.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_679 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_surface.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_680 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_marquage_texte.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_681 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_normes_stationnement_prive.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_682 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_parking.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_683 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_parking_infomobilite.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_684 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_pedibus_arret.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_685 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_pedibus_ligne.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_686 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_place_handicape.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_687 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_plan_charge_trafic.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_688 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_station_taxi.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_689 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_stationnement_v_publique.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_690 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_sv_plaquette.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_691 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_sv_signal.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_692 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_sv_support.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_693 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/otc_zone_30.xml";
+    skos:note "[mobilit=0.45, direction=0.33, general=0.33]".
+
+sitg:concept_721_694 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_carte_illustrative.xml";
+    skos:note "[mision=0.33, operation=0.33, direction=0.2]".
+
+sitg:concept_721_695 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_perimetre.xml";
+    skos:note "[mision=0.33, operation=0.33, direction=0.2]".
+
+sitg:concept_721_696 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_plan_final.xml";
+    skos:note "[mision=0.33, operation=0.33, direction=0.2]".
+
+sitg:concept_721_697 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_reg_emploi.xml";
+    skos:note "[mision=0.33, operation=0.33, direction=0.2]".
+
+sitg:concept_721_698 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/pav_secteur.xml";
+    skos:note "[mision=0.33, operation=0.33, direction=0.2]".
+
+sitg:concept_721_699 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_collecteur.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_700 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_deversoir.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_701 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_fontaine.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_702 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_fosse_bisse.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_703 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_grille_sac.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_704 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_ouvrage_traitement.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_705 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_ouvrages_speciaux.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_706 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_pt_chgmt_caracteristiques.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_707 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_pt_mesure_metrologie.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_708 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_pt_raccordement.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_709 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_pt_rejet.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_710 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_regard_chambre.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_711 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_bassin_versant.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_712 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_ouvrages_speciaux.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_713 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_ouvrages_traitement.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_714 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_point_rejet.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_715 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_reseau_primaire.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_716 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_reseau_secondaire.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_717 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_secteurs_plans.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_718 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_schema_station_pompage.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_719 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_sous_bassin_versant.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_720 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_station_pompage.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_721 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/rae_stockage_eaux.xml";
+    skos:note "[eau=0.46, direction=0.37, general=0.37]".
+
+sitg:concept_721_722 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vit_vignoble_ao.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
+sitg:concept_721_723 rdf:type skos:Concept;
+    skos:definition "SITG_XML_COMPLET/vit_vignoble_federal.xml";
+    skos:note "[agricultur=0.44, direction=0.31, general=0.3]".
+
