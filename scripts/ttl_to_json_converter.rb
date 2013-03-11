@@ -137,7 +137,7 @@ def jsontree ( input_ttl_file, output_json, json_root_node_name="sitg_catalog")
     #puts solution.definition.to_s
     conceptDico[solution.concept] = { 
       :title => solution.definition.to_s.gsub("SITG_XML_COMPLET/", ""), 
-      :note => get_list_from_note(solution.note.to_s) 
+      :note => get_list_from_note(solution.note.to_s, solution.concept.to_s.split("_").last) 
     }
   end
   
@@ -157,7 +157,7 @@ def jsontree ( input_ttl_file, output_json, json_root_node_name="sitg_catalog")
   
   queryCollection.execute(graph).each do |solution|
     colname = solution.collection.to_s.gsub("http://www.sitg.ch/","")
-    collectionHash = { :name => colname , :children => [], :note => get_list_from_note(solution.note.to_s) }
+    collectionHash = { :name => colname , :children => [], :note => get_list_from_note(solution.note.to_s, colname.split("_").last) }
     memberHash[colname].each do |item|
       #puts item.to_s
       memberH = {:name => item[:title], :size => 3000, :note => item[:note] }
@@ -175,7 +175,7 @@ end
 
 # Here some helper methods
 
-def get_list_from_note(note)
+def get_list_from_note(note, cluster_name)
   min = 1000000
   max = 0
   list = []
@@ -192,7 +192,7 @@ def get_list_from_note(note)
   list.each do |v|
     v[:size] =  v[:size]* 1000
   end
-
+  list << { :text => cluster_name , :size => 100 }
   list  
 end
 
