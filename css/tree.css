@@ -15,6 +15,10 @@ path.link {
     stroke-width: 1.5px;
 }
 
-#graph { border:1px solid black; }
+#graph {
+    border:1px solid black;
+}
 
-#wordclound { border:1px solid black; }
+#wordclound {
+    border:1px solid black;
+}

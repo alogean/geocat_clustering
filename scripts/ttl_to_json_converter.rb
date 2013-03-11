@@ -173,16 +173,26 @@ def jsontree ( input_ttl_file, output_json, json_root_node_name="sitg_catalog")
   
 end
 
-
 # Here some helper methods
 
-
 def get_list_from_note(note)
+  min = 1000000
+  max = 0
   list = []
   note.gsub("[", "").gsub("]", "").split(",").each do |item|
     a = item.split("=")
-    list << { :text => a[0].gsub(" ", ""), :size => a[1].to_f*1000 }
+    list << { :text => a[0].gsub(" ", ""), :size => a[1].to_f }
+    if a[1].to_f < min 
+      min = a[1].to_f
+    end
+    if a[1].to_f > max 
+      max = a[1].to_f
+    end
   end
+  list.each do |v|
+    v[:size] =  v[:size]* 1000
+  end
+
   list  
 end
 
@@ -217,8 +227,19 @@ def fo(mystring)
     mystring.gsub(/\s{2,}/, ' ').gsub(",", "")
 end
 
-    
-jsontree("../db/clustering_results/clusters_partenaires.ttl", "../db/cluster_partenaires.json")
 
+def ttl_to_json(source_dir="../db/clustering_results")
+  Find.find(source_dir) do |path|
+    if !File.directory? path
+      if path.split(".").last == "ttl"
+        nt = path.gsub(".ttl", ".nt")
+        json = path.gsub(".ttl", ".json")
+        puts "Processing " + path
+        #system( "rapper #{path} -i turtle -o ntriples > #{nt}" )  
+        jsontree(nt, json)
+      end
+    end
+  end
+end
 
-
+ttl_to_json

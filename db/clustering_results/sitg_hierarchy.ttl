@@ -28,7 +28,7 @@ sitg:concept_0 rdf:type skos:TopConcept;
 	skos:narrower sitg:concept_22.
 
 sitg:concept_1 rdf:type skos:Concept;
-	skos:prefLabel "DIME - Département de l'intérieur, de la mobilité et de l'environnement"@fr;
+	skos:prefLabel "DIME - D√©partement de l'int√©rieur, de la mobilit√© et de l'environnement"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_1_1;
 	skos:narrower sitg:concept_1_2;
@@ -109,7 +109,7 @@ sitg:concept_1_1_1_1_1_3 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/cad_ss_gaz_noeud.xml".
 
 sitg:concept_1_1_1_1_1_4 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Périmètre sécurité gaz"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - P√©rim√®tre s√©curit√© gaz"@fr;
 	skos:broader sitg:concept_1_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/cad_ss_gaz_perimetre_securite.xml".
 
@@ -132,12 +132,12 @@ sitg:concept_1_1_1_1_2_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/cad_ss_telecom_install.xml".
 
 sitg:concept_1_1_1_1_2_3 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud télécommunication"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud t√©l√©communication"@fr;
 	skos:broader sitg:concept_1_1_1_1_2;
 	skos:note "SITG_XML_COMPLET/cad_ss_telecom_noeud.xml".
 
 sitg:concept_1_1_1_1_2_4 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Tube Télécom"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Tube T√©l√©com"@fr;
 	skos:broader sitg:concept_1_1_1_1_2;
 	skos:note "SITG_XML_COMPLET/cad_ss_telecom_tube.xml".
 
@@ -150,22 +150,22 @@ sitg:concept_1_1_1_1_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_1_1_3_4.
 
 sitg:concept_1_1_1_1_3_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Conduite oléoduc"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Conduite ol√©oduc"@fr;
 	skos:broader sitg:concept_1_1_1_1_3;
 	skos:note "SITG_XML_COMPLET/cad_ss_oleoduc_conduite.xml".
 
 sitg:concept_1_1_1_1_3_2 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Installation oléoduc"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Installation ol√©oduc"@fr;
 	skos:broader sitg:concept_1_1_1_1_3;
 	skos:note "SITG_XML_COMPLET/cad_ss_oleoduc_install.xml".
 
 sitg:concept_1_1_1_1_3_3 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud oléoduc"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud ol√©oduc"@fr;
 	skos:broader sitg:concept_1_1_1_1_3;
 	skos:note "SITG_XML_COMPLET/cad_ss_oleoduc_noeud.xml".
 
 sitg:concept_1_1_1_1_3_4 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Périmètre sécurité oléoduc"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - P√©rim√®tre s√©curit√© ol√©oduc"@fr;
 	skos:broader sitg:concept_1_1_1_1_3;
 	skos:note "SITG_XML_COMPLET/cad_ss_oleoduc_perimetre_secu.xml".
 
@@ -178,22 +178,22 @@ sitg:concept_1_1_1_1_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_1_1_4_4.
 
 sitg:concept_1_1_1_1_4_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Bord de nappe électricité"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Bord de nappe √©lectricit√©"@fr;
 	skos:broader sitg:concept_1_1_1_1_4;
 	skos:note "SITG_XML_COMPLET/cad_ss_electricite_bord_nappe.xml".
 
 sitg:concept_1_1_1_1_4_2 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Installation électricité"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Installation √©lectricit√©"@fr;
 	skos:broader sitg:concept_1_1_1_1_4;
 	skos:note "SITG_XML_COMPLET/cad_ss_electricite_install.xml".
 
 sitg:concept_1_1_1_1_4_3 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud électricité"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud √©lectricit√©"@fr;
 	skos:broader sitg:concept_1_1_1_1_4;
 	skos:note "SITG_XML_COMPLET/cad_ss_electricite_noeud.xml".
 
 sitg:concept_1_1_1_1_4_4 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Tube électricité"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Tube √©lectricit√©"@fr;
 	skos:broader sitg:concept_1_1_1_1_4;
 	skos:note "SITG_XML_COMPLET/cad_ss_electricite_tube.xml".
 
@@ -263,7 +263,7 @@ sitg:concept_1_1_1_1_8 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_1_1_8_1.
 
 sitg:concept_1_1_1_1_8_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud végétal"@fr;
+	skos:prefLabel "CADASTRE DU SOUS-SOL (CSS) - Noeud v√©g√©tal"@fr;
 	skos:broader sitg:concept_1_1_1_1_8;
 	skos:note "SITG_XML_COMPLET/cad_ss_vegetal_noeud.xml".
 
@@ -317,27 +317,27 @@ sitg:concept_1_1_1_2_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_1_2_2_5.
 
 sitg:concept_1_1_1_2_2_1 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par revêtement Niveau du sol"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par rev√™tement Niveau du sol"@fr;
 	skos:broader sitg:concept_1_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/cad_domroutier_revet_niv0.xml".
 
 sitg:concept_1_1_1_2_2_2 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par revêtement Niveau I au dessus du sol"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par rev√™tement Niveau I au dessus du sol"@fr;
 	skos:broader sitg:concept_1_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/cad_domroutier_revet_niv1.xml".
 
 sitg:concept_1_1_1_2_2_3 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par revêtement Niveau II au dessus du sol"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par rev√™tement Niveau II au dessus du sol"@fr;
 	skos:broader sitg:concept_1_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/cad_domroutier_revet_niv2.xml".
 
 sitg:concept_1_1_1_2_2_4 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par revêtement Niveau I en dessous du sol"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par rev√™tement Niveau I en dessous du sol"@fr;
 	skos:broader sitg:concept_1_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/cad_domroutier_revet_niv_1.xml".
 
 sitg:concept_1_1_1_2_2_5 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par revêtement Niveau II en dessous du sol"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Par rev√™tement Niveau II en dessous du sol"@fr;
 	skos:broader sitg:concept_1_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/cad_domroutier_revet_niv_2.xml".
 
@@ -722,7 +722,7 @@ sitg:concept_1_1_1_15_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_1_15_1_1.
 
 sitg:concept_1_1_1_15_1_1 rdf:type skos:Concept;
-	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Agrégation des 5 niveaux"@fr;
+	skos:prefLabel "COUVERTURE DU SOL DOMAINE ROUTIER Agr√©gation des 5 niveaux"@fr;
 	skos:broader sitg:concept_1_1_1_15_1;
 	skos:note "SITG_XML_COMPLET/cad_domaine_routier.xml".
 
@@ -1074,7 +1074,7 @@ sitg:concept_1_1_3_1_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_3_1_1_1.
 
 sitg:concept_1_1_3_1_1_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - Géotechnique Surface"@fr;
+	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - G√©otechnique Surface"@fr;
 	skos:broader sitg:concept_1_1_3_1_1;
 	skos:note "SITG_XML_COMPLET/ctss_geotech_surface.xml".
 
@@ -1084,7 +1084,7 @@ sitg:concept_1_1_3_1_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_3_1_2_1.
 
 sitg:concept_1_1_3_1_2_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - Géotechnique Point"@fr;
+	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - G√©otechnique Point"@fr;
 	skos:broader sitg:concept_1_1_3_1_2;
 	skos:note "SITG_XML_COMPLET/ctss_geotech_point.xml".
 
@@ -1094,7 +1094,7 @@ sitg:concept_1_1_3_1_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_3_1_3_1.
 
 sitg:concept_1_1_3_1_3_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - Géotechnique Ligne"@fr;
+	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - G√©otechnique Ligne"@fr;
 	skos:broader sitg:concept_1_1_3_1_3;
 	skos:note "SITG_XML_COMPLET/ctss_geotech_ligne.xml".
 
@@ -1183,7 +1183,7 @@ sitg:concept_1_1_3_4_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_1_3_4_1_1.
 
 sitg:concept_1_1_3_4_1_1 rdf:type skos:Concept;
-	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - Tube Télécom"@fr;
+	skos:prefLabel "CADASTRE TECHNIQUE DU SOUS-SOL (CTSS) - Tube T√©l√©com"@fr;
 	skos:broader sitg:concept_1_1_3_4_1;
 	skos:note "SITG_XML_COMPLET/ctss_telecom_tube.xml".
 
@@ -1270,7 +1270,7 @@ sitg:concept_1_1_4_2_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/geo_mna_courbe_niveau.xml".
 
 sitg:concept_1_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'eau"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'eau"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_2_1;
 	skos:narrower sitg:concept_1_2_2;
@@ -1661,7 +1661,7 @@ sitg:concept_1_2_1_6_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/lce_graphe_eau.xml".
 
 sitg:concept_1_2_1_6_1_2 rdf:type skos:Concept;
-	skos:prefLabel "GRAPHE DE L'EAU (version agrégée)"@fr;
+	skos:prefLabel "GRAPHE DE L'EAU (version agr√©g√©e)"@fr;
 	skos:broader sitg:concept_1_2_1_6_1;
 	skos:note "SITG_XML_COMPLET/lce_graphe_eau_aggrege.xml".
 
@@ -2150,7 +2150,7 @@ sitg:concept_1_2_3_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/eco_plages.xml".
 
 sitg:concept_1_3 rdf:type skos:Concept;
-	skos:prefLabel "Service des systèmes d'information et de géomatique"@fr;
+	skos:prefLabel "Service des syst√®mes d'information et de g√©omatique"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_3_1;
 	skos:narrower sitg:concept_1_3_2;
@@ -2196,7 +2196,7 @@ sitg:concept_1_3_1_1_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_3_1_1_1_5.
 
 sitg:concept_1_3_1_1_1_1 rdf:type skos:Concept;
-	skos:prefLabel "ORTHOPHOTOS AGGLOMERATION (10 mètres)"@fr;
+	skos:prefLabel "ORTHOPHOTOS AGGLOMERATION (10 m√®tres)"@fr;
 	skos:broader sitg:concept_1_3_1_1_1;
 	skos:note "SITG_XML_COMPLET/geo_raster_ortho_10m_agglo.xml".
 
@@ -2255,12 +2255,12 @@ sitg:concept_1_3_1_1_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_3_1_1_3_2.
 
 sitg:concept_1_3_1_1_3_1 rdf:type skos:Concept;
-	skos:prefLabel "CARTE NATIONALE IGN 1:100'000 (SCAN 100 Couverture régionale)"@fr;
+	skos:prefLabel "CARTE NATIONALE IGN 1:100'000 (SCAN 100 Couverture r√©gionale)"@fr;
 	skos:broader sitg:concept_1_3_1_1_3;
 	skos:note "SITG_XML_COMPLET/geo_raster_ign_scan100.xml".
 
 sitg:concept_1_3_1_1_3_2 rdf:type skos:Concept;
-	skos:prefLabel "CARTE NATIONALE IGN 1:200'000 (SCAN REGION Couverture régionale)"@fr;
+	skos:prefLabel "CARTE NATIONALE IGN 1:200'000 (SCAN REGION Couverture r√©gionale)"@fr;
 	skos:broader sitg:concept_1_3_1_1_3;
 	skos:note "SITG_XML_COMPLET/geo_raster_ign_scanregion.xml".
 
@@ -2713,7 +2713,7 @@ sitg:concept_1_3_4_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/lce_graphe_eau_ecomorphologie.xml".
 
 sitg:concept_1_4 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de la nature et du paysage"@fr;
+	skos:prefLabel "Direction g√©n√©rale de la nature et du paysage"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_4_1;
 	skos:narrower sitg:concept_1_4_2.
@@ -3207,7 +3207,7 @@ sitg:concept_1_4_2_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/lce_pe_secteurs.xml".
 
 sitg:concept_1_5 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de la mobilité"@fr;
+	skos:prefLabel "Direction g√©n√©rale de la mobilit√©"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_5_1.
 
@@ -3254,7 +3254,7 @@ sitg:concept_1_5_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/otc_marquage_reg_mobilier.xml".
 
 sitg:concept_1_5_1_1_1_2 rdf:type skos:Concept;
-	skos:prefLabel "MARQUAGES ROUTIERS - Végétation sur le domaine public"@fr;
+	skos:prefLabel "MARQUAGES ROUTIERS - V√©g√©tation sur le domaine public"@fr;
 	skos:broader sitg:concept_1_5_1_1_1;
 	skos:note "SITG_XML_COMPLET/otc_marquage_reg_vegetation.xml".
 
@@ -3264,7 +3264,7 @@ sitg:concept_1_5_1_1_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_5_1_1_2_1.
 
 sitg:concept_1_5_1_1_2_1 rdf:type skos:Concept;
-	skos:prefLabel "MARQUAGES ROUTIERS - Surfaces spécifiques"@fr;
+	skos:prefLabel "MARQUAGES ROUTIERS - Surfaces sp√©cifiques"@fr;
 	skos:broader sitg:concept_1_5_1_1_2;
 	skos:note "SITG_XML_COMPLET/otc_marquage_surface.xml".
 
@@ -3274,7 +3274,7 @@ sitg:concept_1_5_1_1_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_5_1_1_3_1.
 
 sitg:concept_1_5_1_1_3_1 rdf:type skos:Concept;
-	skos:prefLabel "MARQUAGES ROUTIERS - Textes complémentaires"@fr;
+	skos:prefLabel "MARQUAGES ROUTIERS - Textes compl√©mentaires"@fr;
 	skos:broader sitg:concept_1_5_1_1_3;
 	skos:note "SITG_XML_COMPLET/otc_marquage_texte.xml".
 
@@ -3294,7 +3294,7 @@ sitg:concept_1_5_1_1_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_1_5_1_1_5_1.
 
 sitg:concept_1_5_1_1_5_1 rdf:type skos:Concept;
-	skos:prefLabel "MARQUAGES ROUTIERS - Différents types de bordures"@fr;
+	skos:prefLabel "MARQUAGES ROUTIERS - Diff√©rents types de bordures"@fr;
 	skos:broader sitg:concept_1_5_1_1_5;
 	skos:note "SITG_XML_COMPLET/otc_marquage_bordure.xml".
 
@@ -3604,7 +3604,7 @@ sitg:concept_1_5_1_17_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/otc_stationnement_v_publique.xml".
 
 sitg:concept_1_6 rdf:type skos:Concept;
-	skos:prefLabel "Service de géologie, sols et déchets"@fr;
+	skos:prefLabel "Service de g√©ologie, sols et d√©chets"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_6_1.
 
@@ -3958,7 +3958,7 @@ sitg:concept_1_6_1_16_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/gol_sols_fondation.xml".
 
 sitg:concept_1_7 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'agriculture"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'agriculture"@fr;
 	skos:broader sitg:concept_1;
 	skos:narrower sitg:concept_1_7_1;
 	skos:narrower sitg:concept_1_7_2.
@@ -4266,7 +4266,7 @@ sitg:concept_1_7_2_1_2_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/vit_vignoble_ao.xml".
 
 sitg:concept_2 rdf:type skos:Concept;
-	skos:prefLabel "DU - Département de l'urbanisme"@fr;
+	skos:prefLabel "DU - D√©partement de l'urbanisme"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_2_1;
 	skos:narrower sitg:concept_2_2;
@@ -4280,7 +4280,7 @@ sitg:concept_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_2_10.
 
 sitg:concept_2_1 rdf:type skos:Concept;
-	skos:prefLabel "Aménagement - Service de la planification directrice cantonale et régionale"@fr;
+	skos:prefLabel "Am√©nagement - Service de la planification directrice cantonale et r√©gionale"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_1_1;
 	skos:narrower sitg:concept_2_1_2;
@@ -4943,7 +4943,7 @@ sitg:concept_2_1_3_3_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/spd_equipement_public.xml".
 
 sitg:concept_2_2 rdf:type skos:Concept;
-	skos:prefLabel "Secteur des services généraux de l'aménagement du territoire"@fr;
+	skos:prefLabel "Secteur des services g√©n√©raux de l'am√©nagement du territoire"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_2_1.
 
@@ -5146,7 +5146,7 @@ sitg:concept_2_2_1_8_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/sit_degres_sensibilite_opb.xml".
 
 sitg:concept_2_3 rdf:type skos:Concept;
-	skos:prefLabel "Office de l'urbanisme - Service du projet d'agglomération"@fr;
+	skos:prefLabel "Office de l'urbanisme - Service du projet d'agglom√©ration"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_3_1;
 	skos:narrower sitg:concept_2_3_2.
@@ -5282,17 +5282,17 @@ sitg:concept_2_3_2_2_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_2_3_2_2_1_3.
 
 sitg:concept_2_3_2_2_1_1 rdf:type skos:Concept;
-	skos:prefLabel "CARTE DE SYNTHESE INONDATION D’UN TEMPS DE RETOUR EGAL A 100 ANS"@fr;
+	skos:prefLabel "CARTE DE SYNTHESE INONDATION D‚ÄôUN TEMPS DE RETOUR EGAL A 100 ANS"@fr;
 	skos:broader sitg:concept_2_3_2_2_1;
 	skos:note "SITG_XML_COMPLET/agglo_zone_inondable_100ans.xml".
 
 sitg:concept_2_3_2_2_1_2 rdf:type skos:Concept;
-	skos:prefLabel "CARTE DE SYNTHESE INONDATION D’UN TEMPS DE RETOUR EGAL A 300 ANS"@fr;
+	skos:prefLabel "CARTE DE SYNTHESE INONDATION D‚ÄôUN TEMPS DE RETOUR EGAL A 300 ANS"@fr;
 	skos:broader sitg:concept_2_3_2_2_1;
 	skos:note "SITG_XML_COMPLET/agglo_zone_inondable_300ans.xml".
 
 sitg:concept_2_3_2_2_1_3 rdf:type skos:Concept;
-	skos:prefLabel "CARTE DE SYNTHESE INONDATION D’UN TEMPS DE RETOUR EGAL A 30 ANS"@fr;
+	skos:prefLabel "CARTE DE SYNTHESE INONDATION D‚ÄôUN TEMPS DE RETOUR EGAL A 30 ANS"@fr;
 	skos:broader sitg:concept_2_3_2_2_1;
 	skos:note "SITG_XML_COMPLET/agglo_zone_inondable_30ans.xml".
 
@@ -5424,7 +5424,7 @@ sitg:concept_2_4_3_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/pav_patrimoine_ops.xml".
 
 sitg:concept_2_5 rdf:type skos:Concept;
-	skos:prefLabel "Inventaire des monuments d'art et d'histoire du canton de Genève"@fr;
+	skos:prefLabel "Inventaire des monuments d'art et d'histoire du canton de Gen√®ve"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_5_1;
 	skos:narrower sitg:concept_2_5_2.
@@ -5509,7 +5509,7 @@ sitg:concept_2_5_2_2_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dps_billon_parc.xml".
 
 sitg:concept_2_6 rdf:type skos:Concept;
-	skos:prefLabel "Grand Genève"@fr;
+	skos:prefLabel "Grand Gen√®ve"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_6_1.
 
@@ -5593,7 +5593,7 @@ sitg:concept_2_6_1_4_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/agglo_exploitant.xml".
 
 sitg:concept_2_7 rdf:type skos:Concept;
-	skos:prefLabel "Direction des missions opérationnelles"@fr;
+	skos:prefLabel "Direction des missions op√©rationnelles"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_7_1.
 
@@ -5754,7 +5754,7 @@ sitg:concept_2_9_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/ols_logement_subv.xml".
 
 sitg:concept_2_10 rdf:type skos:Concept;
-	skos:prefLabel "Service d'archéologie"@fr;
+	skos:prefLabel "Service d'arch√©ologie"@fr;
 	skos:broader sitg:concept_2;
 	skos:narrower sitg:concept_2_10_1.
 
@@ -5779,12 +5779,12 @@ sitg:concept_2_10_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/pav_sites_archeo.xml".
 
 sitg:concept_3 rdf:type skos:Concept;
-	skos:prefLabel "Institut national de l'information géographique et forestière"@fr;
+	skos:prefLabel "Institut national de l'information g√©ographique et foresti√®re"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_3_1.
 
 sitg:concept_3_1 rdf:type skos:Concept;
-	skos:prefLabel "Institut national de l'information géographique et forestière"@fr;
+	skos:prefLabel "Institut national de l'information g√©ographique et foresti√®re"@fr;
 	skos:broader sitg:concept_3;
 	skos:narrower sitg:concept_3_1_1.
 
@@ -5839,17 +5839,17 @@ sitg:concept_3_1_1_1_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_1_3.
 
 sitg:concept_3_1_1_1_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Tronçon de route"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Tron√ßon de route"@fr;
 	skos:broader sitg:concept_3_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/ign_route_troncon_route.xml".
 
 sitg:concept_3_1_1_1_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - A - Voies de communication routière - Tronçon de chemin"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - A - Voies de communication routi√®re - Tron√ßon de chemin"@fr;
 	skos:broader sitg:concept_3_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/ign_route_troncon_chemin.xml".
 
 sitg:concept_3_1_1_1_1_3 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - A - Voies de communication routière - Tronçon de route"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - A - Voies de communication routi√®re - Tron√ßon de route"@fr;
 	skos:broader sitg:concept_3_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/ign_route_troncon_route_01.xml".
 
@@ -5859,7 +5859,7 @@ sitg:concept_3_1_1_1_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_2_1.
 
 sitg:concept_3_1_1_1_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - A - Voies de communication routière - Surface de route"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - A - Voies de communication routi√®re - Surface de route"@fr;
 	skos:broader sitg:concept_3_1_1_1_2;
 	skos:note "SITG_XML_COMPLET/ign_route_surface_route.xml".
 
@@ -5869,7 +5869,7 @@ sitg:concept_3_1_1_1_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_3_1.
 
 sitg:concept_3_1_1_1_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Itinéraire routier"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Itin√©raire routier"@fr;
 	skos:broader sitg:concept_3_1_1_1_3;
 	skos:note "SITG_XML_COMPLET/ign_route_itineraire.xml".
 
@@ -5879,7 +5879,7 @@ sitg:concept_3_1_1_1_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_4_1.
 
 sitg:concept_3_1_1_1_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Equipement routier"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Equipement routier"@fr;
 	skos:broader sitg:concept_3_1_1_1_4;
 	skos:note "SITG_XML_COMPLET/ign_route_equipement_routier.xml".
 
@@ -5889,7 +5889,7 @@ sitg:concept_3_1_1_1_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_5_1.
 
 sitg:concept_3_1_1_1_5_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Noeud routier"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Noeud routier"@fr;
 	skos:broader sitg:concept_3_1_1_1_5;
 	skos:note "SITG_XML_COMPLET/ign_route_noeud_routier.xml".
 
@@ -5899,7 +5899,7 @@ sitg:concept_3_1_1_1_6 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_6_1.
 
 sitg:concept_3_1_1_1_6_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Un tronçon de route permet d'accéder à un équipement routier"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Un tron√ßon de route permet d'acc√©der √† un √©quipement routier"@fr;
 	skos:broader sitg:concept_3_1_1_1_6;
 	skos:note "SITG_XML_COMPLET/ign_route_acces_equipement.xml".
 
@@ -5909,7 +5909,7 @@ sitg:concept_3_1_1_1_7 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_7_1.
 
 sitg:concept_3_1_1_1_7_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Début de section"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - D√©but de section"@fr;
 	skos:broader sitg:concept_3_1_1_1_7;
 	skos:note "SITG_XML_COMPLET/ign_route_debut_section.xml".
 
@@ -5919,7 +5919,7 @@ sitg:concept_3_1_1_1_8 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_8_1.
 
 sitg:concept_3_1_1_1_8_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Franchissements - Franchissement"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Franchissements - Franchissement"@fr;
 	skos:broader sitg:concept_3_1_1_1_8;
 	skos:note "SITG_XML_COMPLET/ign_route_franchissement.xml".
 
@@ -5929,7 +5929,7 @@ sitg:concept_3_1_1_1_9 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_9_1.
 
 sitg:concept_3_1_1_1_9_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Deux tronçons de route communiquent via un Noeud routier sous restriction de ..."@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Deux tron√ßons de route communiquent via un Noeud routier sous restriction de ..."@fr;
 	skos:broader sitg:concept_3_1_1_1_9;
 	skos:note "SITG_XML_COMPLET/ign_route_communication_restreinte.xml".
 
@@ -5939,7 +5939,7 @@ sitg:concept_3_1_1_1_10 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_1_10_1.
 
 sitg:concept_3_1_1_1_10_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau routier - Liaison maritime ou bac"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau routier - Liaison maritime ou bac"@fr;
 	skos:broader sitg:concept_3_1_1_1_10;
 	skos:note "SITG_XML_COMPLET/ign_route_liaison_maritime.xml".
 
@@ -5963,12 +5963,12 @@ sitg:concept_3_1_1_2_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_1_2.
 
 sitg:concept_3_1_1_2_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Construction ponctuelle"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Construction ponctuelle"@fr;
 	skos:broader sitg:concept_3_1_1_2_1;
 	skos:note "SITG_XML_COMPLET/ign_bati_construction_ponctuelle.xml".
 
 sitg:concept_3_1_1_2_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Construction surfacique"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Construction surfacique"@fr;
 	skos:broader sitg:concept_3_1_1_2_1;
 	skos:note "SITG_XML_COMPLET/ign_bati_construction_surfacique.xml".
 
@@ -5978,7 +5978,7 @@ sitg:concept_3_1_1_2_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_2_1.
 
 sitg:concept_3_1_1_2_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Surface d'activité"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Surface d'activit√©"@fr;
 	skos:broader sitg:concept_3_1_1_2_2;
 	skos:note "SITG_XML_COMPLET/ign_bati_surface_activite.xml".
 
@@ -5988,7 +5988,7 @@ sitg:concept_3_1_1_2_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_3_1.
 
 sitg:concept_3_1_1_2_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Bâtiment"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - B√¢timent"@fr;
 	skos:broader sitg:concept_3_1_1_2_3;
 	skos:note "SITG_XML_COMPLET/ign_bati_batiment.xml".
 
@@ -5998,7 +5998,7 @@ sitg:concept_3_1_1_2_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_4_1.
 
 sitg:concept_3_1_1_2_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Point d'activité ou d'intérêt"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Point d'activit√© ou d'int√©r√™t"@fr;
 	skos:broader sitg:concept_3_1_1_2_4;
 	skos:note "SITG_XML_COMPLET/ign_bati_point_activite_interet.xml".
 
@@ -6008,7 +6008,7 @@ sitg:concept_3_1_1_2_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_5_1.
 
 sitg:concept_3_1_1_2_5_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Piste d'aérodrome"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Piste d'a√©rodrome"@fr;
 	skos:broader sitg:concept_3_1_1_2_5;
 	skos:note "SITG_XML_COMPLET/ign_bati_piste_aerodrome.xml".
 
@@ -6018,7 +6018,7 @@ sitg:concept_3_1_1_2_6 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_6_1.
 
 sitg:concept_3_1_1_2_6_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Construction linéaire"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Construction lin√©aire"@fr;
 	skos:broader sitg:concept_3_1_1_2_6;
 	skos:note "SITG_XML_COMPLET/ign_bati_construction_lineaire.xml".
 
@@ -6028,7 +6028,7 @@ sitg:concept_3_1_1_2_7 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_7_1.
 
 sitg:concept_3_1_1_2_7_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Réservoir"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - R√©servoir"@fr;
 	skos:broader sitg:concept_3_1_1_2_7;
 	skos:note "SITG_XML_COMPLET/ign_bati_reservoir.xml".
 
@@ -6038,7 +6038,7 @@ sitg:concept_3_1_1_2_8 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_8_1.
 
 sitg:concept_3_1_1_2_8_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Cimetière"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Cimeti√®re"@fr;
 	skos:broader sitg:concept_3_1_1_2_8;
 	skos:note "SITG_XML_COMPLET/ign_bati_cimetiere.xml".
 
@@ -6048,7 +6048,7 @@ sitg:concept_3_1_1_2_9 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_2_9_1.
 
 sitg:concept_3_1_1_2_9_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - E - Surfaces d'activités et bâti - Terrain de sport"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - E - Surfaces d'activit√©s et b√¢ti - Terrain de sport"@fr;
 	skos:broader sitg:concept_3_1_1_2_9;
 	skos:note "SITG_XML_COMPLET/ign_bati_terrain_sport.xml".
 
@@ -6070,7 +6070,7 @@ sitg:concept_3_1_1_3_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_1_1.
 
 sitg:concept_3_1_1_3_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements surfaciques - Aérodrome"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements surfaciques - A√©rodrome"@fr;
 	skos:broader sitg:concept_3_1_1_3_1;
 	skos:note "SITG_XML_COMPLET/ign_equi_aerodrome.xml".
 
@@ -6080,7 +6080,7 @@ sitg:concept_3_1_1_3_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_2_1.
 
 sitg:concept_3_1_1_3_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements surfaciques - Enceinte militaire"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements surfaciques - Enceinte militaire"@fr;
 	skos:broader sitg:concept_3_1_1_3_2;
 	skos:note "SITG_XML_COMPLET/ign_equi_enceinte_militaire.xml".
 
@@ -6090,7 +6090,7 @@ sitg:concept_3_1_1_3_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_3_1.
 
 sitg:concept_3_1_1_3_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements linéaires - Digue"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements lin√©aires - Digue"@fr;
 	skos:broader sitg:concept_3_1_1_3_3;
 	skos:note "SITG_XML_COMPLET/ign_equi_digue.xml".
 
@@ -6100,7 +6100,7 @@ sitg:concept_3_1_1_3_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_4_1.
 
 sitg:concept_3_1_1_3_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Transport d'électricité - Tronçon de ligne électrique"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Transport d'√©lectricit√© - Tron√ßon de ligne √©lectrique"@fr;
 	skos:broader sitg:concept_3_1_1_3_4;
 	skos:note "SITG_XML_COMPLET/ign_equi_ligne_electrique.xml".
 
@@ -6110,7 +6110,7 @@ sitg:concept_3_1_1_3_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_5_1.
 
 sitg:concept_3_1_1_3_5_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements linéaires - Piste d'aérodrome"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements lin√©aires - Piste d'a√©rodrome"@fr;
 	skos:broader sitg:concept_3_1_1_3_5;
 	skos:note "SITG_XML_COMPLET/ign_equi_piste_aerodrome.xml".
 
@@ -6120,7 +6120,7 @@ sitg:concept_3_1_1_3_6 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_6_1.
 
 sitg:concept_3_1_1_3_6_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements ponctuels - Construction élevée"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements ponctuels - Construction √©lev√©e"@fr;
 	skos:broader sitg:concept_3_1_1_3_6;
 	skos:note "SITG_XML_COMPLET/ign_equi_construction_elevee.xml".
 
@@ -6130,7 +6130,7 @@ sitg:concept_3_1_1_3_7 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_7_1.
 
 sitg:concept_3_1_1_3_7_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements linéaires - Transport par câble"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements lin√©aires - Transport par c√¢ble"@fr;
 	skos:broader sitg:concept_3_1_1_3_7;
 	skos:note "SITG_XML_COMPLET/ign_equi_transport_cable.xml".
 
@@ -6140,7 +6140,7 @@ sitg:concept_3_1_1_3_8 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_3_8_1.
 
 sitg:concept_3_1_1_3_8_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Equipements surfaciques - Cimetière"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Equipements surfaciques - Cimeti√®re"@fr;
 	skos:broader sitg:concept_3_1_1_3_8;
 	skos:note "SITG_XML_COMPLET/ign_equi_cimetiere.xml".
 
@@ -6160,12 +6160,12 @@ sitg:concept_3_1_1_4_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_4_1_2.
 
 sitg:concept_3_1_1_4_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Hydrographie surfacique - Zone couverte d'eau"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Hydrographie surfacique - Zone couverte d'eau"@fr;
 	skos:broader sitg:concept_3_1_1_4_1;
 	skos:note "SITG_XML_COMPLET/ign_hydro_surface_hydrographique.xml".
 
 sitg:concept_3_1_1_4_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - D - Hydrographie terrestre - Surface d'eau"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - D - Hydrographie terrestre - Surface d'eau"@fr;
 	skos:broader sitg:concept_3_1_1_4_1;
 	skos:note "SITG_XML_COMPLET/ign_hydro_surface_eau.xml".
 
@@ -6176,12 +6176,12 @@ sitg:concept_3_1_1_4_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_4_2_2.
 
 sitg:concept_3_1_1_4_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Hydrographie réseau - Tronçon hydrographique"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Hydrographie r√©seau - Tron√ßon hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_4_2;
 	skos:note "SITG_XML_COMPLET/ign_hydro_troncon_hydrographique.xml".
 
 sitg:concept_3_1_1_4_2_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - D - Hydrographie terrestre - Tronçon de cours d'eau"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - D - Hydrographie terrestre - Tron√ßon de cours d'eau"@fr;
 	skos:broader sitg:concept_3_1_1_4_2;
 	skos:note "SITG_XML_COMPLET/ign_hydro_troncon_cours_eau.xml".
 
@@ -6191,7 +6191,7 @@ sitg:concept_3_1_1_4_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_4_3_1.
 
 sitg:concept_3_1_1_4_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - D - Hydrographie terrestre - Point d'eau"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - D - Hydrographie terrestre - Point d'eau"@fr;
 	skos:broader sitg:concept_3_1_1_4_3;
 	skos:note "SITG_XML_COMPLET/ign_hydro_point_eau.xml".
 
@@ -6201,7 +6201,7 @@ sitg:concept_3_1_1_4_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_4_4_1.
 
 sitg:concept_3_1_1_4_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Hydrographie ponctuelle - Point d'eau isolé"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Hydrographie ponctuelle - Point d'eau isol√©"@fr;
 	skos:broader sitg:concept_3_1_1_4_4;
 	skos:note "SITG_XML_COMPLET/ign_hydro_ponctuel_hydrographique.xml".
 
@@ -6211,7 +6211,7 @@ sitg:concept_3_1_1_4_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_4_5_1.
 
 sitg:concept_3_1_1_4_5_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Hydrographie de texture - Zone d'hydrographie de texture"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Hydrographie de texture - Zone d'hydrographie de texture"@fr;
 	skos:broader sitg:concept_3_1_1_4_5;
 	skos:note "SITG_XML_COMPLET/ign_hydro_zone_hydrograph_texture.xml".
 
@@ -6230,12 +6230,12 @@ sitg:concept_3_1_1_5_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_5_1_2.
 
 sitg:concept_3_1_1_5_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Lieu-dit habité"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Lieu-dit habit√©"@fr;
 	skos:broader sitg:concept_3_1_1_5_1;
 	skos:note "SITG_XML_COMPLET/ign_divers_lieu_dit_habite.xml".
 
 sitg:concept_3_1_1_5_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Lieu-dit non habité"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Lieu-dit non habit√©"@fr;
 	skos:broader sitg:concept_3_1_1_5_1;
 	skos:note "SITG_XML_COMPLET/ign_divers_lieu_dit_non_habite.xml".
 
@@ -6246,12 +6246,12 @@ sitg:concept_3_1_1_5_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_5_2_2.
 
 sitg:concept_3_1_1_5_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Toponyme communication"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Toponyme communication"@fr;
 	skos:broader sitg:concept_3_1_1_5_2;
 	skos:note "SITG_XML_COMPLET/ign_divers_toponyme_communication.xml".
 
 sitg:concept_3_1_1_5_2_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Toponyme divers"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Toponyme divers"@fr;
 	skos:broader sitg:concept_3_1_1_5_2;
 	skos:note "SITG_XML_COMPLET/ign_divers_toponyme_divers.xml".
 
@@ -6261,7 +6261,7 @@ sitg:concept_3_1_1_5_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_5_3_1.
 
 sitg:concept_3_1_1_5_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Hydronyme"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Hydronyme"@fr;
 	skos:broader sitg:concept_3_1_1_5_3;
 	skos:note "SITG_XML_COMPLET/ign_divers_hydronyme.xml".
 
@@ -6271,7 +6271,7 @@ sitg:concept_3_1_1_5_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_5_4_1.
 
 sitg:concept_3_1_1_5_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - Z - Objets divers - Oronyme"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - Z - Objets divers - Oronyme"@fr;
 	skos:broader sitg:concept_3_1_1_5_4;
 	skos:note "SITG_XML_COMPLET/ign_divers_oronyme.xml".
 
@@ -6291,17 +6291,17 @@ sitg:concept_3_1_1_6_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_6_1_3.
 
 sitg:concept_3_1_1_6_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes ponctuels - Zone d'activité"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes ponctuels - Zone d'activit√©"@fr;
 	skos:broader sitg:concept_3_1_1_6_1;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_zone_activite.xml".
 
 sitg:concept_3_1_1_6_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes ponctuels - Zone d'habitat"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes ponctuels - Zone d'habitat"@fr;
 	skos:broader sitg:concept_3_1_1_6_1;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_zone_habitat.xml".
 
 sitg:concept_3_1_1_6_1_3 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes surfaciques - Zone réglementée d'intérêt touristique"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes surfaciques - Zone r√©glement√©e d'int√©r√™t touristique"@fr;
 	skos:broader sitg:concept_3_1_1_6_1;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_zone_reglt_touristiq.xml".
 
@@ -6311,7 +6311,7 @@ sitg:concept_3_1_1_6_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_6_2_1.
 
 sitg:concept_3_1_1_6_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes ponctuels - Point remarquable du relief"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes ponctuels - Point remarquable du relief"@fr;
 	skos:broader sitg:concept_3_1_1_6_2;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_point_remarq_relief.xml".
 
@@ -6321,7 +6321,7 @@ sitg:concept_3_1_1_6_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_6_3_1.
 
 sitg:concept_3_1_1_6_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes ponctuels - Massif boisé"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes ponctuels - Massif bois√©"@fr;
 	skos:broader sitg:concept_3_1_1_6_3;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_massif_boise.xml".
 
@@ -6331,7 +6331,7 @@ sitg:concept_3_1_1_6_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_6_4_1.
 
 sitg:concept_3_1_1_6_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Toponymes ponctuels - Etablissement administratif ou public"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Toponymes ponctuels - Etablissement administratif ou public"@fr;
 	skos:broader sitg:concept_3_1_1_6_4;
 	skos:note "SITG_XML_COMPLET/ign_toponymie_etablissement.xml".
 
@@ -6351,12 +6351,12 @@ sitg:concept_3_1_1_7_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_7_1_2.
 
 sitg:concept_3_1_1_7_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Unités administratives - Commune"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Unit√©s administratives - Commune"@fr;
 	skos:broader sitg:concept_3_1_1_7_1;
 	skos:note "SITG_XML_COMPLET/ign_admin_commune.xml".
 
 sitg:concept_3_1_1_7_1_2 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - H - Zonages techniques et administratifs - Commune"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - H - Zonages techniques et administratifs - Commune"@fr;
 	skos:broader sitg:concept_3_1_1_7_1;
 	skos:note "SITG_XML_COMPLET/ign_admin_commune_01.xml".
 
@@ -6366,7 +6366,7 @@ sitg:concept_3_1_1_7_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_7_2_1.
 
 sitg:concept_3_1_1_7_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Unités administratives - Arrondissement"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Unit√©s administratives - Arrondissement"@fr;
 	skos:broader sitg:concept_3_1_1_7_2;
 	skos:note "SITG_XML_COMPLET/ign_admin_arrondissement.xml".
 
@@ -6376,7 +6376,7 @@ sitg:concept_3_1_1_7_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_7_3_1.
 
 sitg:concept_3_1_1_7_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Unités administratives - Département"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Unit√©s administratives - D√©partement"@fr;
 	skos:broader sitg:concept_3_1_1_7_3;
 	skos:note "SITG_XML_COMPLET/ign_admin_departement.xml".
 
@@ -6386,7 +6386,7 @@ sitg:concept_3_1_1_7_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_7_4_1.
 
 sitg:concept_3_1_1_7_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Unités administratives - Limite administrative"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Unit√©s administratives - Limite administrative"@fr;
 	skos:broader sitg:concept_3_1_1_7_4;
 	skos:note "SITG_XML_COMPLET/ign_admin_limite_administrative.xml".
 
@@ -6396,7 +6396,7 @@ sitg:concept_3_1_1_7_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_7_5_1.
 
 sitg:concept_3_1_1_7_5_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Unités administratives - Canton"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Unit√©s administratives - Canton"@fr;
 	skos:broader sitg:concept_3_1_1_7_5;
 	skos:note "SITG_XML_COMPLET/ign_admin_canton.xml".
 
@@ -6414,7 +6414,7 @@ sitg:concept_3_1_1_8_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_8_1_1.
 
 sitg:concept_3_1_1_8_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - C - Transport d'énergie et de fluides - Canalisation"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - C - Transport d'√©nergie et de fluides - Canalisation"@fr;
 	skos:broader sitg:concept_3_1_1_8_1;
 	skos:note "SITG_XML_COMPLET/ign_energie_canalisation.xml".
 
@@ -6424,7 +6424,7 @@ sitg:concept_3_1_1_8_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_8_2_1.
 
 sitg:concept_3_1_1_8_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - C - Transport d'énergie et de fluides - Ligne électrique"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - C - Transport d'√©nergie et de fluides - Ligne √©lectrique"@fr;
 	skos:broader sitg:concept_3_1_1_8_2;
 	skos:note "SITG_XML_COMPLET/ign_energie_ligne_electrique.xml".
 
@@ -6434,7 +6434,7 @@ sitg:concept_3_1_1_8_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_8_3_1.
 
 sitg:concept_3_1_1_8_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - C - Transport d'énergie et de fluides - Poste de transformation"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - C - Transport d'√©nergie et de fluides - Poste de transformation"@fr;
 	skos:broader sitg:concept_3_1_1_8_3;
 	skos:note "SITG_XML_COMPLET/ign_energie_poste_transformation.xml".
 
@@ -6444,7 +6444,7 @@ sitg:concept_3_1_1_8_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_8_4_1.
 
 sitg:concept_3_1_1_8_4_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - C - Transport d'énergie et de fluides - Pylône"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - C - Transport d'√©nergie et de fluides - Pyl√¥ne"@fr;
 	skos:broader sitg:concept_3_1_1_8_4;
 	skos:note "SITG_XML_COMPLET/ign_energie_pylone.xml".
 
@@ -6461,7 +6461,7 @@ sitg:concept_3_1_1_9_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_9_1_1.
 
 sitg:concept_3_1_1_9_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - B - Voies ferrées et autres moyens de transport terrestre - Tronçon de voie ferrée"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - B - Voies ferr√©es et autres moyens de transport terrestre - Tron√ßon de voie ferr√©e"@fr;
 	skos:broader sitg:concept_3_1_1_9_1;
 	skos:note "SITG_XML_COMPLET/ign_transp_troncon_voie_ferree.xml".
 
@@ -6471,7 +6471,7 @@ sitg:concept_3_1_1_9_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_9_2_1.
 
 sitg:concept_3_1_1_9_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - B - Voies ferrées et autres moyens de transport terrestre - Transport par câble"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - B - Voies ferr√©es et autres moyens de transport terrestre - Transport par c√¢ble"@fr;
 	skos:broader sitg:concept_3_1_1_9_2;
 	skos:note "SITG_XML_COMPLET/ign_transp_transport_cable.xml".
 
@@ -6481,7 +6481,7 @@ sitg:concept_3_1_1_9_3 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_9_3_1.
 
 sitg:concept_3_1_1_9_3_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - B - Voies ferrées et autres moyens de transport terrestre - Aire de triage"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - B - Voies ferr√©es et autres moyens de transport terrestre - Aire de triage"@fr;
 	skos:broader sitg:concept_3_1_1_9_3;
 	skos:note "SITG_XML_COMPLET/ign_transp_aire_triage.xml".
 
@@ -6497,7 +6497,7 @@ sitg:concept_3_1_1_10_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_10_1_1.
 
 sitg:concept_3_1_1_10_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau ferré - Tronçon de voie ferrée"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau ferr√© - Tron√ßon de voie ferr√©e"@fr;
 	skos:broader sitg:concept_3_1_1_10_1;
 	skos:note "SITG_XML_COMPLET/ign_ferro_troncon_voie_ferree.xml".
 
@@ -6507,7 +6507,7 @@ sitg:concept_3_1_1_10_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_10_2_1.
 
 sitg:concept_3_1_1_10_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Réseau ferré - Noeud ferré"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - R√©seau ferr√© - Noeud ferr√©"@fr;
 	skos:broader sitg:concept_3_1_1_10_2;
 	skos:note "SITG_XML_COMPLET/ign_ferro_noeud_ferre.xml".
 
@@ -6523,7 +6523,7 @@ sitg:concept_3_1_1_11_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_11_1_1.
 
 sitg:concept_3_1_1_11_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage®- Texture hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ- Texture hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_11_1;
 	skos:note "SITG_XML_COMPLET/ign_hydrographie_texture.xml".
 
@@ -6533,7 +6533,7 @@ sitg:concept_3_1_1_11_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_11_2_1.
 
 sitg:concept_3_1_1_11_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Surface hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Surface hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_11_2;
 	skos:note "SITG_XML_COMPLET/ign_hydrographie_surfacique.xml".
 
@@ -6549,7 +6549,7 @@ sitg:concept_3_1_1_12_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_12_1_1.
 
 sitg:concept_3_1_1_12_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Tronçon hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Tron√ßon hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_12_1;
 	skos:note "SITG_XML_COMPLET/ign_troncon_hydrographique.xml".
 
@@ -6559,7 +6559,7 @@ sitg:concept_3_1_1_12_2 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_12_2_1.
 
 sitg:concept_3_1_1_12_2_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN TOP Adresse® - Tronçon de route"@fr;
+	skos:prefLabel "IGN TOP Adresse¬Æ - Tron√ßon de route"@fr;
 	skos:broader sitg:concept_3_1_1_12_2;
 	skos:note "SITG_XML_COMPLET/ign_troncon_route.xml".
 
@@ -6574,7 +6574,7 @@ sitg:concept_3_1_1_13_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_13_1_1.
 
 sitg:concept_3_1_1_13_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Sous secteur"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Sous secteur"@fr;
 	skos:broader sitg:concept_3_1_1_13_1;
 	skos:note "SITG_XML_COMPLET/ign_sous_secteur.xml".
 
@@ -6589,7 +6589,7 @@ sitg:concept_3_1_1_14_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_14_1_1.
 
 sitg:concept_3_1_1_14_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN TOP Adresse® - Commune"@fr;
+	skos:prefLabel "IGN TOP Adresse¬Æ - Commune"@fr;
 	skos:broader sitg:concept_3_1_1_14_1;
 	skos:note "SITG_XML_COMPLET/ign_commune.xml".
 
@@ -6604,7 +6604,7 @@ sitg:concept_3_1_1_15_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_15_1_1.
 
 sitg:concept_3_1_1_15_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Secteur"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Secteur"@fr;
 	skos:broader sitg:concept_3_1_1_15_1;
 	skos:note "SITG_XML_COMPLET/ign_secteur.xml".
 
@@ -6619,7 +6619,7 @@ sitg:concept_3_1_1_16_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_16_1_1.
 
 sitg:concept_3_1_1_16_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Noeud hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Noeud hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_16_1;
 	skos:note "SITG_XML_COMPLET/ign_noeud_hydrographique.xml".
 
@@ -6634,7 +6634,7 @@ sitg:concept_3_1_1_17_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_17_1_1.
 
 sitg:concept_3_1_1_17_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Topo® - G - Orographie - Ligne orographique"@fr;
+	skos:prefLabel "IGN BD Topo¬Æ - G - Orographie - Ligne orographique"@fr;
 	skos:broader sitg:concept_3_1_1_17_1;
 	skos:note "SITG_XML_COMPLET/ign_oro_ligne_orographique.xml".
 
@@ -6649,7 +6649,7 @@ sitg:concept_3_1_1_18_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_18_1_1.
 
 sitg:concept_3_1_1_18_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Point d'eau isolé"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Point d'eau isol√©"@fr;
 	skos:broader sitg:concept_3_1_1_18_1;
 	skos:note "SITG_XML_COMPLET/ign_point_eau_isole.xml".
 
@@ -6664,7 +6664,7 @@ sitg:concept_3_1_1_19_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_19_1_1.
 
 sitg:concept_3_1_1_19_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN TOP Adresse® - Chef-lieu de commune"@fr;
+	skos:prefLabel "IGN TOP Adresse¬Æ - Chef-lieu de commune"@fr;
 	skos:broader sitg:concept_3_1_1_19_1;
 	skos:note "SITG_XML_COMPLET/ign_chef_lieu_commune.xml".
 
@@ -6679,7 +6679,7 @@ sitg:concept_3_1_1_20_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_20_1_1.
 
 sitg:concept_3_1_1_20_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Cours d'eau"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Cours d'eau"@fr;
 	skos:broader sitg:concept_3_1_1_20_1;
 	skos:note "SITG_XML_COMPLET/ign_cours_d_eau.xml".
 
@@ -6694,7 +6694,7 @@ sitg:concept_3_1_1_21_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_21_1_1.
 
 sitg:concept_3_1_1_21_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Région hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - R√©gion hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_21_1;
 	skos:note "SITG_XML_COMPLET/ign_region_hydrographique.xml".
 
@@ -6709,7 +6709,7 @@ sitg:concept_3_1_1_22_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_22_1_1.
 
 sitg:concept_3_1_1_22_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN TOP Adresse® - Adresses"@fr;
+	skos:prefLabel "IGN TOP Adresse¬Æ - Adresses"@fr;
 	skos:broader sitg:concept_3_1_1_22_1;
 	skos:note "SITG_XML_COMPLET/ign_adresse.xml".
 
@@ -6724,7 +6724,7 @@ sitg:concept_3_1_1_23_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_23_1_1.
 
 sitg:concept_3_1_1_23_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carthage® - Zone hydrographique"@fr;
+	skos:prefLabel "IGN BD Carthage¬Æ - Zone hydrographique"@fr;
 	skos:broader sitg:concept_3_1_1_23_1;
 	skos:note "SITG_XML_COMPLET/ign_zone_hydrographique.xml".
 
@@ -6739,7 +6739,7 @@ sitg:concept_3_1_1_24_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_24_1_1.
 
 sitg:concept_3_1_1_24_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN TOP Adresse® - Lieu-dit habité"@fr;
+	skos:prefLabel "IGN TOP Adresse¬Æ - Lieu-dit habit√©"@fr;
 	skos:broader sitg:concept_3_1_1_24_1;
 	skos:note "SITG_XML_COMPLET/ign_lieu_dit_habite.xml".
 
@@ -6754,12 +6754,12 @@ sitg:concept_3_1_1_25_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_3_1_1_25_1_1.
 
 sitg:concept_3_1_1_25_1_1 rdf:type skos:Concept;
-	skos:prefLabel "IGN BD Carto® - Habillage - Zone d'occupation du sol"@fr;
+	skos:prefLabel "IGN BD Carto¬Æ - Habillage - Zone d'occupation du sol"@fr;
 	skos:broader sitg:concept_3_1_1_25_1;
 	skos:note "SITG_XML_COMPLET/ign_habi_zone_occupation_sol.xml".
 
 sitg:concept_4 rdf:type skos:Concept;
-	skos:prefLabel "DIM - Département de l'intérieur et de la mobilité"@fr;
+	skos:prefLabel "DIM - D√©partement de l'int√©rieur et de la mobilit√©"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_4_1;
 	skos:narrower sitg:concept_4_2;
@@ -6770,7 +6770,7 @@ sitg:concept_4 rdf:type skos:Concept;
 	skos:narrower sitg:concept_4_7.
 
 sitg:concept_4_1 rdf:type skos:Concept;
-	skos:prefLabel "Service de l'organisation et des systèmes d'information"@fr;
+	skos:prefLabel "Service de l'organisation et des syst√®mes d'information"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_1_1;
 	skos:narrower sitg:concept_4_1_2;
@@ -6807,7 +6807,7 @@ sitg:concept_4_1_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/geo_raster_orthophotos_16cm.xml".
 
 sitg:concept_4_1_1_1_1_2 rdf:type skos:Concept;
-	skos:prefLabel "ORTHOPHOTOS (2 mètres)"@fr;
+	skos:prefLabel "ORTHOPHOTOS (2 m√®tres)"@fr;
 	skos:broader sitg:concept_4_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/geo_raster_orthophotos_2m.xml".
 
@@ -7063,7 +7063,7 @@ sitg:concept_4_1_6_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/epoque.xml".
 
 sitg:concept_4_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de la mobilité"@fr;
+	skos:prefLabel "Direction g√©n√©rale de la mobilit√©"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_2_1.
 
@@ -7265,7 +7265,7 @@ sitg:concept_4_3_3_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/cadia.xml".
 
 sitg:concept_4_4 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'eau"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'eau"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_4_1.
 
@@ -7307,7 +7307,7 @@ sitg:concept_4_4_1_1_2_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/lce_evenement_inond_etendue.xml".
 
 sitg:concept_4_5 rdf:type skos:Concept;
-	skos:prefLabel "Sécurité civile"@fr;
+	skos:prefLabel "S√©curit√© civile"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_5_1.
 
@@ -7343,7 +7343,7 @@ sitg:concept_4_5_1_1_2_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/sci_pbc_fontaine.xml".
 
 sitg:concept_4_6 rdf:type skos:Concept;
-	skos:prefLabel "Service sécurité et MSST"@fr;
+	skos:prefLabel "Service s√©curit√© et MSST"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_6_1.
 
@@ -7368,7 +7368,7 @@ sitg:concept_4_6_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/sec_paratonnerre_radio.xml".
 
 sitg:concept_4_7 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de la nature et du paysage"@fr;
+	skos:prefLabel "Direction g√©n√©rale de la nature et du paysage"@fr;
 	skos:broader sitg:concept_4;
 	skos:narrower sitg:concept_4_7_1.
 
@@ -7393,7 +7393,7 @@ sitg:concept_4_7_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/Zold_ffp_releve_terrain_foret.xml".
 
 sitg:concept_5 rdf:type skos:Concept;
-	skos:prefLabel "DT - Département du territoire"@fr;
+	skos:prefLabel "DT - D√©partement du territoire"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_5_1;
 	skos:narrower sitg:concept_5_2;
@@ -7401,7 +7401,7 @@ sitg:concept_5 rdf:type skos:Concept;
 	skos:narrower sitg:concept_5_4.
 
 sitg:concept_5_1 rdf:type skos:Concept;
-	skos:prefLabel "Service des systèmes d'information et géomatique"@fr;
+	skos:prefLabel "Service des syst√®mes d'information et g√©omatique"@fr;
 	skos:broader sitg:concept_5;
 	skos:narrower sitg:concept_5_1_1;
 	skos:narrower sitg:concept_5_1_2;
@@ -7571,7 +7571,7 @@ sitg:concept_5_1_4_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/geo_3D_pont.xml".
 
 sitg:concept_5_2 rdf:type skos:Concept;
-	skos:prefLabel "Service de l'organisation et des systèmes d'information"@fr;
+	skos:prefLabel "Service de l'organisation et des syst√®mes d'information"@fr;
 	skos:broader sitg:concept_5;
 	skos:narrower sitg:concept_5_2_1;
 	skos:narrower sitg:concept_5_2_2;
@@ -7797,7 +7797,7 @@ sitg:concept_5_3_2_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/geo_raster_pe_2500_couleur_07.xml".
 
 sitg:concept_5_4 rdf:type skos:Concept;
-	skos:prefLabel "Nature et paysage - Service des forêts"@fr;
+	skos:prefLabel "Nature et paysage - Service des for√™ts"@fr;
 	skos:broader sitg:concept_5;
 	skos:narrower sitg:concept_5_4_1.
 
@@ -7822,7 +7822,7 @@ sitg:concept_5_4_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/ffp_platane.xml".
 
 sitg:concept_6 rdf:type skos:Concept;
-	skos:prefLabel "DS - Département de la sécurité"@fr;
+	skos:prefLabel "DS - D√©partement de la s√©curit√©"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_6_1;
 	skos:narrower sitg:concept_6_2;
@@ -7832,7 +7832,7 @@ sitg:concept_6 rdf:type skos:Concept;
 	skos:narrower sitg:concept_6_6.
 
 sitg:concept_6_1 rdf:type skos:Concept;
-	skos:prefLabel "Service cantonal de l'énergie"@fr;
+	skos:prefLabel "Service cantonal de l'√©nergie"@fr;
 	skos:broader sitg:concept_6;
 	skos:narrower sitg:concept_6_1_1.
 
@@ -7981,7 +7981,7 @@ sitg:concept_6_1_1_6_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/scane_chaudiere.xml".
 
 sitg:concept_6_2 rdf:type skos:Concept;
-	skos:prefLabel "Sécurité civile"@fr;
+	skos:prefLabel "S√©curit√© civile"@fr;
 	skos:broader sitg:concept_6;
 	skos:narrower sitg:concept_6_2_1.
 
@@ -8204,7 +8204,7 @@ sitg:concept_6_5_1_2_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/pol_poste_police.xml".
 
 sitg:concept_6_6 rdf:type skos:Concept;
-	skos:prefLabel "Service cantonal d'étude d'impact sur l'environnement"@fr;
+	skos:prefLabel "Service cantonal d'√©tude d'impact sur l'environnement"@fr;
 	skos:broader sitg:concept_6;
 	skos:narrower sitg:concept_6_6_1.
 
@@ -8229,7 +8229,7 @@ sitg:concept_6_6_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/seie_perimetre_etude_impact.xml".
 
 sitg:concept_7 rdf:type skos:Concept;
-	skos:prefLabel "DIP - Département de l'instruction publique, de la culture et du sport"@fr;
+	skos:prefLabel "DIP - D√©partement de l'instruction publique, de la culture et du sport"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_7_1;
 	skos:narrower sitg:concept_7_2;
@@ -8241,7 +8241,7 @@ sitg:concept_7 rdf:type skos:Concept;
 	skos:narrower sitg:concept_7_8.
 
 sitg:concept_7_1 rdf:type skos:Concept;
-	skos:prefLabel "Ecole d'ingénieurs HES de Lullier"@fr;
+	skos:prefLabel "Ecole d'ing√©nieurs HES de Lullier"@fr;
 	skos:broader sitg:concept_7;
 	skos:narrower sitg:concept_7_1_1.
 
@@ -8353,7 +8353,7 @@ sitg:concept_7_1_1_5_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/eil_carte_risque_erosion.xml".
 
 sitg:concept_7_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'enseignement primaire"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'enseignement primaire"@fr;
 	skos:broader sitg:concept_7;
 	skos:narrower sitg:concept_7_2_1.
 
@@ -8374,7 +8374,7 @@ sitg:concept_7_2_1_1_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_7_2_1_1_1_2.
 
 sitg:concept_7_2_1_1_1_1 rdf:type skos:Concept;
-	skos:prefLabel "ECOLES PRIMAIRES (Bâtiments)"@fr;
+	skos:prefLabel "ECOLES PRIMAIRES (B√¢timents)"@fr;
 	skos:broader sitg:concept_7_2_1_1_1;
 	skos:note "SITG_XML_COMPLET/dip_ecole_primaire_batiment.xml".
 
@@ -8384,7 +8384,7 @@ sitg:concept_7_2_1_1_1_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dip_ecole_primaire_pt.xml".
 
 sitg:concept_7_3 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale du cycle d'orientation"@fr;
+	skos:prefLabel "Direction g√©n√©rale du cycle d'orientation"@fr;
 	skos:broader sitg:concept_7;
 	skos:narrower sitg:concept_7_3_1.
 
@@ -8415,7 +8415,7 @@ sitg:concept_7_3_1_1_1_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dip_cycles_co_pt.xml".
 
 sitg:concept_7_4 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'enseignement secondaire postobilgatoire"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'enseignement secondaire postobilgatoire"@fr;
 	skos:broader sitg:concept_7;
 	skos:narrower sitg:concept_7_4_1.
 
@@ -8456,7 +8456,7 @@ sitg:concept_7_4_1_2_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dip_ecole_secondaire_pt.xml".
 
 sitg:concept_7_5 rdf:type skos:Concept;
-	skos:prefLabel "Université de Genève"@fr;
+	skos:prefLabel "Universit√© de Gen√®ve"@fr;
 	skos:broader sitg:concept_7;
 	skos:narrower sitg:concept_7_5_1.
 
@@ -8562,13 +8562,13 @@ sitg:concept_7_8_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/spj_secteur_protection.xml".
 
 sitg:concept_8 rdf:type skos:Concept;
-	skos:prefLabel "Ville de Genève"@fr;
+	skos:prefLabel "Ville de Gen√®ve"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_8_1;
 	skos:narrower sitg:concept_8_2.
 
 sitg:concept_8_1 rdf:type skos:Concept;
-	skos:prefLabel "Ville de Genève"@fr;
+	skos:prefLabel "Ville de Gen√®ve"@fr;
 	skos:broader sitg:concept_8;
 	skos:narrower sitg:concept_8_1_1;
 	skos:narrower sitg:concept_8_1_2.
@@ -8807,7 +8807,7 @@ sitg:concept_8_1_2_2_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/vdg_terrasse_resto.xml".
 
 sitg:concept_8_2 rdf:type skos:Concept;
-	skos:prefLabel "Conservatoire et Jardin botaniques de la Ville de Genève"@fr;
+	skos:prefLabel "Conservatoire et Jardin botaniques de la Ville de Gen√®ve"@fr;
 	skos:broader sitg:concept_8;
 	skos:narrower sitg:concept_8_2_1;
 	skos:narrower sitg:concept_8_2_2.
@@ -8869,7 +8869,7 @@ sitg:concept_8_2_2_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/eil_carte_pedo_sols_agricoles.xml".
 
 sitg:concept_9 rdf:type skos:Concept;
-	skos:prefLabel "DARES - Département des affaires régionales, de l'économie et de la santé"@fr;
+	skos:prefLabel "DARES - D√©partement des affaires r√©gionales, de l'√©conomie et de la sant√©"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_9_1;
 	skos:narrower sitg:concept_9_2;
@@ -8877,7 +8877,7 @@ sitg:concept_9 rdf:type skos:Concept;
 	skos:narrower sitg:concept_9_4.
 
 sitg:concept_9_1 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de la santé"@fr;
+	skos:prefLabel "Direction g√©n√©rale de la sant√©"@fr;
 	skos:broader sitg:concept_9;
 	skos:narrower sitg:concept_9_1_1.
 
@@ -8972,7 +8972,7 @@ sitg:concept_9_1_1_4_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/das_acteurs_sante.xml".
 
 sitg:concept_9_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale des CASS"@fr;
+	skos:prefLabel "Direction g√©n√©rale des CASS"@fr;
 	skos:broader sitg:concept_9;
 	skos:narrower sitg:concept_9_2_1.
 
@@ -9045,7 +9045,7 @@ sitg:concept_9_2_1_4_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/das_etablissement_encadrement.xml".
 
 sitg:concept_9_3 rdf:type skos:Concept;
-	skos:prefLabel "Service de la consommation et des affaires vétérinaires"@fr;
+	skos:prefLabel "Service de la consommation et des affaires v√©t√©rinaires"@fr;
 	skos:broader sitg:concept_9;
 	skos:narrower sitg:concept_9_3_1.
 
@@ -9092,7 +9092,7 @@ sitg:concept_9_3_1_1_3_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/geo_api_rel_rucher_apiculteur.xml".
 
 sitg:concept_9_4 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale des affaires économiques"@fr;
+	skos:prefLabel "Direction g√©n√©rale des affaires √©conomiques"@fr;
 	skos:broader sitg:concept_9;
 	skos:narrower sitg:concept_9_4_1.
 
@@ -9123,13 +9123,13 @@ sitg:concept_9_4_1_1_1_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/des_taxe_touristique.xml".
 
 sitg:concept_10 rdf:type skos:Concept;
-	skos:prefLabel "DIP - Département de l'instruction publique"@fr;
+	skos:prefLabel "DIP - D√©partement de l'instruction publique"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_10_1;
 	skos:narrower sitg:concept_10_2.
 
 sitg:concept_10_1 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'enseignement secondaire postobilgatoire"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'enseignement secondaire postobilgatoire"@fr;
 	skos:broader sitg:concept_10;
 	skos:narrower sitg:concept_10_1_1.
 
@@ -9236,7 +9236,7 @@ sitg:concept_10_1_1_5_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dip_po_etablissements.xml".
 
 sitg:concept_10_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'enseignement primaire"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'enseignement primaire"@fr;
 	skos:broader sitg:concept_10;
 	skos:narrower sitg:concept_10_2_1.
 
@@ -9278,7 +9278,7 @@ sitg:concept_10_2_1_1_2_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/dip_eleves_repartitions_po.xml".
 
 sitg:concept_11 rdf:type skos:Concept;
-	skos:prefLabel "Office fédéral de topographie SWISSTOPO"@fr;
+	skos:prefLabel "Office f√©d√©ral de topographie SWISSTOPO"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_11_1.
 
@@ -9442,7 +9442,7 @@ sitg:concept_11_1_1_8_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/mnt25.xml".
 
 sitg:concept_12 rdf:type skos:Concept;
-	skos:prefLabel "DF - Département des finances"@fr;
+	skos:prefLabel "DF - D√©partement des finances"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_12_1.
 
@@ -9472,7 +9472,7 @@ sitg:concept_12_1_1_1_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_12_1_1_1_1_1.
 
 sitg:concept_12_1_1_1_1_1 rdf:type skos:Concept;
-	skos:prefLabel "RECENSEMENT FEDERAL DES ENTREPRISES, SECTEUR SECONDAIRE ET TERTIAIRE (Information à l'adresse)"@fr;
+	skos:prefLabel "RECENSEMENT FEDERAL DES ENTREPRISES, SECTEUR SECONDAIRE ET TERTIAIRE (Information √† l'adresse)"@fr;
 	skos:broader sitg:concept_12_1_1_1_1;
 	skos:note "SITG_XML_COMPLET/ZOLD_ocs_rfe_adresse.xml".
 
@@ -9498,7 +9498,7 @@ sitg:concept_12_1_1_2_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_12_1_1_2_1_1.
 
 sitg:concept_12_1_1_2_1_1 rdf:type skos:Concept;
-	skos:prefLabel "STATISTIQUE CANTONALE DES BATIMENTS ET LOGEMENTS (Information à l'adresse)"@fr;
+	skos:prefLabel "STATISTIQUE CANTONALE DES BATIMENTS ET LOGEMENTS (Information √† l'adresse)"@fr;
 	skos:broader sitg:concept_12_1_1_2_1;
 	skos:note "SITG_XML_COMPLET/ocs_batiment_adresse.xml".
 
@@ -9524,7 +9524,7 @@ sitg:concept_12_1_1_3_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_12_1_1_3_1_1.
 
 sitg:concept_12_1_1_3_1_1 rdf:type skos:Concept;
-	skos:prefLabel "RECENSEMENT FEDERAL DE L'AGRICULTURE, SECTEUR PRIMAIRE (Information à l'adresse)"@fr;
+	skos:prefLabel "RECENSEMENT FEDERAL DE L'AGRICULTURE, SECTEUR PRIMAIRE (Information √† l'adresse)"@fr;
 	skos:broader sitg:concept_12_1_1_3_1;
 	skos:note "SITG_XML_COMPLET/ZOLD_ocs_rfa_adresse.xml".
 
@@ -9550,7 +9550,7 @@ sitg:concept_12_1_1_4_1 rdf:type skos:Concept;
 	skos:narrower sitg:concept_12_1_1_4_1_1.
 
 sitg:concept_12_1_1_4_1_1 rdf:type skos:Concept;
-	skos:prefLabel "STATISTIQUE CANTONALE DE LA POPULATION (Information à l'adresse)"@fr;
+	skos:prefLabel "STATISTIQUE CANTONALE DE LA POPULATION (Information √† l'adresse)"@fr;
 	skos:broader sitg:concept_12_1_1_4_1;
 	skos:note "SITG_XML_COMPLET/ocs_pop_adresse.xml".
 
@@ -9585,7 +9585,7 @@ sitg:concept_13 rdf:type skos:Concept;
 	skos:narrower sitg:concept_13_1.
 
 sitg:concept_13_1 rdf:type skos:Concept;
-	skos:prefLabel "Ville de Genève"@fr;
+	skos:prefLabel "Ville de Gen√®ve"@fr;
 	skos:broader sitg:concept_13;
 	skos:narrower sitg:concept_13_1_1.
 
@@ -9766,12 +9766,12 @@ sitg:concept_14_1_1_4_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/tpg_arrets.xml".
 
 sitg:concept_15 rdf:type skos:Concept;
-	skos:prefLabel "Aéroport International de Genève"@fr;
+	skos:prefLabel "A√©roport International de Gen√®ve"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_15_1.
 
 sitg:concept_15_1 rdf:type skos:Concept;
-	skos:prefLabel "Aéroport International de Genève"@fr;
+	skos:prefLabel "A√©roport International de Gen√®ve"@fr;
 	skos:broader sitg:concept_15;
 	skos:narrower sitg:concept_15_1_1.
 
@@ -9829,7 +9829,7 @@ sitg:concept_15_1_1_1_4_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/aig_leq_06_22.xml".
 
 sitg:concept_16 rdf:type skos:Concept;
-	skos:prefLabel "DCTI - Département des constructions et des technologies de l'information"@fr;
+	skos:prefLabel "DCTI - D√©partement des constructions et des technologies de l'information"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_16_1.
 
@@ -9891,7 +9891,7 @@ sitg:concept_16_1_2_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/rfo_proprietaire.xml".
 
 sitg:concept_17 rdf:type skos:Concept;
-	skos:prefLabel "DSE - Département de la solidarité et de l'emploi"@fr;
+	skos:prefLabel "DSE - D√©partement de la solidarit√© et de l'emploi"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_17_1;
 	skos:narrower sitg:concept_17_2.
@@ -9943,7 +9943,7 @@ sitg:concept_17_1_2_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/oci_stations_services.xml".
 
 sitg:concept_17_2 rdf:type skos:Concept;
-	skos:prefLabel "Direction générale de l'action sociale"@fr;
+	skos:prefLabel "Direction g√©n√©rale de l'action sociale"@fr;
 	skos:broader sitg:concept_17;
 	skos:narrower sitg:concept_17_2_1.
 
@@ -9968,7 +9968,7 @@ sitg:concept_17_2_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/das_etab_handicape.xml".
 
 sitg:concept_18 rdf:type skos:Concept;
-	skos:prefLabel "Services Industriels de Genève"@fr;
+	skos:prefLabel "Services Industriels de Gen√®ve"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_18_1.
 
@@ -10004,7 +10004,7 @@ sitg:concept_18_1_1_1_1_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/sig_eclairage_public_point.xml".
 
 sitg:concept_19 rdf:type skos:Concept;
-	skos:prefLabel "DSPE - Département de la sécurité, de la police et de l'environnement"@fr;
+	skos:prefLabel "DSPE - D√©partement de la s√©curit√©, de la police et de l'environnement"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_19_1.
 
@@ -10040,12 +10040,12 @@ sitg:concept_19_1_1_1_1_2 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/eco_bruit_cff_valeur.xml".
 
 sitg:concept_20 rdf:type skos:Concept;
-	skos:prefLabel "Fondation pour les terrains industriels de Genève"@fr;
+	skos:prefLabel "Fondation pour les terrains industriels de Gen√®ve"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_20_1.
 
 sitg:concept_20_1 rdf:type skos:Concept;
-	skos:prefLabel "Fondation pour les terrains industriels de Genève"@fr;
+	skos:prefLabel "Fondation pour les terrains industriels de Gen√®ve"@fr;
 	skos:broader sitg:concept_20;
 	skos:narrower sitg:concept_20_1_1.
 
@@ -10070,7 +10070,7 @@ sitg:concept_20_1_1_1_1_1 rdf:type skos:Concept;
 	skos:note "SITG_XML_COMPLET/fti_perimetre.xml".
 
 sitg:concept_21 rdf:type skos:Concept;
-	skos:prefLabel "ETAT DE VAUD - Sécurité et Environnement"@fr;
+	skos:prefLabel "ETAT DE VAUD - S√©curit√© et Environnement"@fr;
 	skos:broader sitg:concept_0;
 	skos:narrower sitg:concept_21_1.
 

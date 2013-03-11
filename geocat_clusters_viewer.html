@@ -8,30 +8,30 @@
     <script type="text/javascript" src="lib/d3.v3.js"></script>
     <script type="text/javascript" src="lib/d3.layout.cloud.js"></script>
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tree.css">
 </head>
 <body>
 <p>
-    <input type="button" value="partenaires"
-           onclick="render_cluster('db/cluster_partenaire.json')"/>
-    <input type="button" value="resume nlp (no verb)"
-           onclick="render_cluster('db/cluster_resume_nlp_no_verb.json')"/>
-    <input type="button" value="resume nlp (noun)"
-           onclick="render_cluster('db/cluster_resume_nlp_noun.json')"/>
-    <input type="button" value="resume nlp (noun adj)"
-           onclick="render_cluster('db/cluster_resume_nlp_noun_adj.json')"/>
-    <input type="button" value="service"
-           onclick="render_cluster('db/cluster_service.json')"/>
-    <input type="button" value="titre"
-           onclick="render_cluster('db/cluster_titre.json')"/>
-    <input type="button" value="titre & resume"
-           onclick="render_cluster('db/cluster_titre_resume.json')"/>
-    <input type="button" value="titre resume nlp (no verb)"
-           onclick="render_cluster('db/cluster_titre_resume_nlp_no_verb.json')"/>
-    <input type="button" value="titre & resume nlp (noun)"
-           onclick="render_cluster('db/cluster_titre_resume_nlp_noun.json')"/>
-    <input type="button" value="titre & resume nlp (no adj)"
-           onclick="render_cluster('db/cluster_titre_resume_nlp_noun_adj.json')"/>
+    <input type="button" value="resumes"
+           onclick="render_cluster('db/clustering_results/clusters_resumes.json')"/>
+    <input type="button" value="resumes nlp (no verb)"
+           onclick="render_cluster('db/clustering_results/clusters_resumes_nlp_no_verb.json')"/>
+    <input type="button" value="resumes nlp (noun)"
+           onclick="render_cluster('db/clustering_results/clusters_resumes_nlp_noun.json')"/>
+    <input type="button" value="resumes nlp (noun adj)"
+           onclick="render_cluster('db/clustering_results/clusters_resumes_nlp_noun_adj.json')"/>
+    <input type="button" value="services"
+           onclick="render_cluster('db/clustering_results/clusters_services.json')"/>
+    <input type="button" value="titres"
+           onclick="render_cluster('db/clustering_results/clusters_titres.json')"/>
+    <input type="button" value="titres & resumes"
+           onclick="render_cluster('db/clustering_results/clusters_titres_resumes.json')"/>
+    <input type="button" value="titres resumes nlp (no verb)"
+           onclick="render_cluster('db/clustering_results/clusters_titres_resumes_nlp_no_verb.json')"/>
+    <input type="button" value="titre & resumes nlp (noun)"
+           onclick="render_cluster('db/clustering_results/clusters_titres_resumes_nlp_noun.json')"/>
+    <input type="button" value="titres & resumes nlp (no adj)"
+           onclick="render_cluster('db/clustering_results/clusters_titres_resumes_nlp_noun_adj.json')"/>
 </p>
 
 
@@ -51,7 +51,7 @@ function render_cluster(injson) {
 function treeview(input_json) {
     var margin = {top: 20, right: 120, bottom: 20, left: 120},
             width = 1280 - margin.right - margin.left,
-            height = 800 - margin.top - margin.bottom,
+            height = 1800 - margin.top - margin.bottom,
             i = 0,
             duration = 500,
             root;
@@ -229,7 +229,7 @@ function clowdword(input_json) {
         d3.layout.cloud().size([300, 300])
                 .words(word_data)
                 .rotate(function () {
-                    return ~~(Math.random() * 2) * 90;
+                    return ~~(0.2 * 2) * 90;
                 })
                 .font("Impact")
                 .fontSize(function (d) {
@@ -242,7 +242,8 @@ function clowdword(input_json) {
     function draw(words) {
 
 
-        d3.select("#wordcloud").append("svg")
+        d3.select("#wordcloud")
+                .append("svg").style("border","1px solid black")
                 .attr("width", 300)
                 .attr("height", 300)
                 .append("g")
